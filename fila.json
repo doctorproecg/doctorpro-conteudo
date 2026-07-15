@@ -23,7 +23,7 @@
       "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
       "data": "2026-07-15",
       "pasta": "2026-07-15-quanto-custa",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -33,7 +33,8 @@
         "slide-06.png"
       ],
       "legenda": "\"Bom dia, gostaria de saber o valor da consulta.\"\n\nChega no WhatsApp toda semana. E a resposta que quase todo consultório dá é o preço, seco. Depois disso, silêncio.\n\nO médico entende esse silêncio como \"achou caro\". Quase nunca é isso. O paciente ficou na dúvida, e dúvida não vira agendamento.\n\nUm número sozinho não diz nada. Ninguém compra um valor, compra a certeza de que aquilo resolve o problema. Quando você manda só o preço, entrega a única informação com que ele não sabe o que fazer.\n\nMesmo preço, outro caminho: devolve com uma pergunta sobre o que ele está sentindo, diz o que está incluso na consulta, e oferece dois horários em vez de deixar em aberto.\n\nNão é técnica de vendas. É não deixar a pessoa sozinha com um número.\n\nSalva esse. E se quem responde o WhatsApp do seu consultório não é você, manda pra ela.",
-      "instagram_media_id": null
+      "instagram_media_id": "17876747532512031",
+      "publicado_em": "2026-07-15T16:12:53.389Z"
     },
     {
       "id": "p2-recusa-cliente",
