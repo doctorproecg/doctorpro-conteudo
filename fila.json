@@ -57,7 +57,7 @@
       "titulo": "O ECG do seu marketing (Método ECG)",
       "data": "2026-07-20",
       "pasta": "2026-07-20-metodo-ecg",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -74,7 +74,7 @@
       "titulo": "Google Meu Negócio: a recepção que atende 24h",
       "data": "2026-07-22",
       "pasta": "2026-07-22-google-negocio",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -91,7 +91,7 @@
       "titulo": "CFM: antes e depois voltou a ser permitido",
       "data": "2026-07-24",
       "pasta": "2026-07-24-cfm-antes-depois",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -108,7 +108,7 @@
       "titulo": "A sala mais bonita não vale nada vazia (post único)",
       "data": "2026-07-27",
       "pasta": "2026-07-27-sala-vazia",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png"
       ],
