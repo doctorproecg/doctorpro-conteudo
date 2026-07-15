@@ -1,0 +1,44 @@
+{
+  "_leia": "status: rascunho -> aprovado -> publicado. SÓ 'aprovado' vai ao ar; o resto é pulado em silêncio. Depois de revisar os slides, troque para 'aprovado' e dê push.",
+  "posts": [
+    {
+      "id": "c1-ia-busca",
+      "titulo": "O paciente perguntou pra IA, não pro Google",
+      "data": "2026-07-13",
+      "pasta": "2026-07-13-ia-busca",
+      "status": "rascunho",
+      "slides": [
+        "slide-01.png", "slide-02.png", "slide-03.png",
+        "slide-04.png", "slide-05.png", "slide-06.png"
+      ],
+      "legenda": "Seu próximo paciente talvez não te procure no Google. Ele vai descrever o sintoma numa IA e receber três nomes de volta.\n\nE é aí que a conta muda. A primeira página do Google tinha dez resultados, e dava pra estar em qualquer um deles. A resposta da IA tem três. Ou você está entre eles, ou você não existe naquela conversa.\n\nO que decide isso não é reputação, é o que a máquina consegue ler sobre você: perfil no Google completo e na categoria certa, avaliações recentes, e algum conteúdo que confirme quem você é.\n\nQuase nenhum médico está olhando pra isso ainda. Quem arrumar agora vai colher por muito tempo.\n\nSalva pra não esquecer de conferir o seu. E se você conhece um colega excelente que ninguém acha, manda pra ele.",
+      "instagram_media_id": null
+    },
+    {
+      "id": "g1-quanto-custa",
+      "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
+      "data": "2026-07-15",
+      "pasta": "2026-07-15-quanto-custa",
+      "status": "rascunho",
+      "slides": [
+        "slide-01.png", "slide-02.png", "slide-03.png",
+        "slide-04.png", "slide-05.png", "slide-06.png"
+      ],
+      "legenda": "\"Bom dia, gostaria de saber o valor da consulta.\"\n\nChega no WhatsApp toda semana. E a resposta que quase todo consultório dá é o preço, seco. Depois disso, silêncio.\n\nO médico entende esse silêncio como \"achou caro\". Quase nunca é isso. O paciente ficou na dúvida, e dúvida não vira agendamento.\n\nUm número sozinho não diz nada. Ninguém compra um valor, compra a certeza de que aquilo resolve o problema. Quando você manda só o preço, entrega a única informação com que ele não sabe o que fazer.\n\nMesmo preço, outro caminho: devolve com uma pergunta sobre o que ele está sentindo, diz o que está incluso na consulta, e oferece dois horários em vez de deixar em aberto.\n\nNão é técnica de vendas. É não deixar a pessoa sozinha com um número.\n\nSalva esse. E se quem responde o WhatsApp do seu consultório não é você, manda pra ela.",
+      "instagram_media_id": null
+    },
+    {
+      "id": "p2-recusa-cliente",
+      "titulo": "A gente recusa cliente",
+      "data": "2026-07-17",
+      "pasta": "2026-07-17-recusa-cliente",
+      "status": "rascunho",
+      "slides": [
+        "slide-01.png", "slide-02.png", "slide-03.png",
+        "slide-04.png", "slide-05.png"
+      ],
+      "legenda": "A gente recusa cliente. Não é postura de escassez, é que aceitar quem a gente não consegue ajudar seria roubar.\n\nSão sempre as mesmas três situações.\n\nQuem quer resultado em 30 dias. Autoridade médica não se constrói em um mês, e quem promete isso está vendendo, não entregando.\n\nQuem quer prometer cura no anúncio. A Resolução CFM 2.336 é clara sobre isso, e a gente não coloca o CRM de ninguém em risco por engajamento.\n\nE quem não quer aparecer de jeito nenhum. Dá pra fazer muita coisa sem virar influencer, mas alguma presença é inegociável. Sem rosto, não existe confiança.\n\nO resultado é uma carteira menor. Preferimos poucos médicos crescendo de verdade a uma lista cheia de gente insatisfeita.\n\nSe você está escolhendo quem cuida do seu marketing, faz a pergunta ao contrário: pergunta quem eles recusam. A resposta diz mais que qualquer portfólio.\n\nSegue a gente se esse tipo de conversa te interessa.",
+      "instagram_media_id": null
+    }
+  ]
+}
