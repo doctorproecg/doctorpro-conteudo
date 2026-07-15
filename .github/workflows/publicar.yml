@@ -2,9 +2,10 @@ name: Publicar no Instagram
 
 on:
   schedule:
-    # 12:00 UTC = 09:00 em Brasília. Segunda, quarta e sexta.
+    # 12:00 UTC = 09:00 em Brasília. Roda TODO dia; publica só se houver
+    # post aprovado com data igual a hoje (a data de cada post manda no calendário).
     # O cron do GitHub pode atrasar alguns minutos em horário de pico — é normal.
-    - cron: '0 12 * * 1,3,5'
+    - cron: '0 12 * * *'
   workflow_dispatch:
     inputs:
       data:
