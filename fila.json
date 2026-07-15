@@ -4,9 +4,9 @@
     {
       "id": "c1-ia-busca",
       "titulo": "O paciente perguntou pra IA, não pro Google",
-      "data": "2026-07-13",
+      "data": "2026-07-17",
       "pasta": "2026-07-13-ia-busca",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -21,7 +21,7 @@
     {
       "id": "g1-quanto-custa",
       "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
-      "data": "2026-07-15",
+      "data": "2026-07-20",
       "pasta": "2026-07-15-quanto-custa",
       "status": "aprovado",
       "slides": [
@@ -38,9 +38,9 @@
     {
       "id": "p2-recusa-cliente",
       "titulo": "A gente recusa cliente",
-      "data": "2026-07-17",
+      "data": "2026-07-22",
       "pasta": "2026-07-17-recusa-cliente",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
