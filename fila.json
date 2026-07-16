@@ -6,7 +6,7 @@
       "titulo": "O paciente perguntou pra IA, não pro Google",
       "data": "2026-07-16",
       "pasta": "2026-07-13-ia-busca",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -16,7 +16,8 @@
         "slide-06.png"
       ],
       "legenda": "Seu próximo paciente talvez não te procure no Google. Ele vai descrever o sintoma numa IA e receber três nomes de volta.\n\nE é aí que a conta muda. A primeira página do Google tinha dez resultados, e dava pra estar em qualquer um deles. A resposta da IA tem três. Ou você está entre eles, ou você não existe naquela conversa.\n\nO que decide isso não é reputação, é o que a máquina consegue ler sobre você: perfil no Google completo e na categoria certa, avaliações recentes, e algum conteúdo que confirme quem você é.\n\nQuase nenhum médico está olhando pra isso ainda. Quem arrumar agora vai colher por muito tempo.\n\nSalva pra não esquecer de conferir o seu. E se você conhece um colega excelente que ninguém acha, manda pra ele.",
-      "instagram_media_id": null
+      "instagram_media_id": "18400034581089978",
+      "publicado_em": "2026-07-16T12:59:00.372Z"
     },
     {
       "id": "g1-quanto-custa",
