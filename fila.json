@@ -121,7 +121,7 @@
       "titulo": "A secretária é o seu funil",
       "data": "2026-07-29",
       "pasta": "2026-07-29-secretaria",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -138,7 +138,7 @@
       "titulo": "O ano em que o feed cansou de IA (post único)",
       "data": "2026-07-31",
       "pasta": "2026-07-31-feed-ia",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png"
       ],
@@ -150,7 +150,7 @@
       "titulo": "Como pedir avaliação sem infringir o CFM",
       "data": "2026-08-03",
       "pasta": "2026-08-03-avaliacoes",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -167,7 +167,7 @@
       "titulo": "Você não precisa dançar no Reels",
       "data": "2026-08-05",
       "pasta": "2026-08-05-reels",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -184,7 +184,7 @@
       "titulo": "O paciente que confirma e não aparece",
       "data": "2026-08-07",
       "pasta": "2026-08-07-no-show",
-      "status": "rascunho",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
