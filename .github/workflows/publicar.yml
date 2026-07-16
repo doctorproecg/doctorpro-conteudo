@@ -2,9 +2,16 @@ name: Publicar no Instagram
 
 on:
   schedule:
-    # 12:00 UTC = 09:00 em Brasília. Roda TODO dia; publica só se houver
-    # post aprovado com data igual a hoje (a data de cada post manda no calendário).
-    # O cron do GitHub pode atrasar alguns minutos em horário de pico — é normal.
+    # Roda TODO dia; publica só se houver post aprovado com data igual a hoje
+    # (a data de cada post no fila.json manda no calendário).
+    #
+    # O cron do GitHub é "melhor esforço" e atrasa de 5 a 15 min, principalmente
+    # na hora cheia (todo mundo agenda :00). Por isso miramos ANTES e num minuto
+    # quebrado: 10:53 UTC = 07:53 BRT, e com o atraso o post cai por volta das 8h.
+    - cron: '53 10 * * *'
+    # Temporário: garante o post de 16/07, cuja execução das 09:00 ficou atrasada
+    # na fila. Publicar duas vezes no mesmo dia é inofensivo (o script pula post
+    # que já está 'publicado'). Remover depois.
     - cron: '0 12 * * *'
   workflow_dispatch:
     inputs:
