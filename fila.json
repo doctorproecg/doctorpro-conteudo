@@ -2,6 +2,23 @@
   "_leia": "status: rascunho -> aprovado -> publicado. SÓ 'aprovado' vai ao ar; o resto é pulado em silêncio. Depois de revisar os slides, troque para 'aprovado' e dê push.",
   "posts": [
     {
+      "id": "cfm-ia-fiscaliza",
+      "titulo": "O CFM agora tem uma IA lendo o seu perfil",
+      "data": "2026-07-17",
+      "pasta": "2026-07-17-cfm-ia-fiscaliza",
+      "status": "aprovado",
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
+      "legenda": "O CFM colocou uma inteligência artificial pra fiscalizar. E ela lê rede social.\n\nO anúncio é de junho: um módulo de IA dentro da Plataforma Nacional de Fiscalização, que faz busca automatizada em ambientes digitais. Ele cruza registro profissional, cadastro de empresa, dados da Receita Federal e o que está publicado na internet.\n\nO que mudou não foi a regra. Foi quem procura. Antes, o conselho abria apuração quando alguém denunciava. Agora o sistema varre, encontra o padrão e entrega o alerta pronto.\n\nEle foi feito pra achar três coisas: exercício irregular da medicina, falso médico e empresa de fachada, e publicidade em desacordo com as normas éticas. As duas primeiras não são o seu caso. A terceira alcança médico registrado, que atende bem, e que só nunca parou pra revisar o que já postou.\n\nAntes que você entre em pânico: nada vira processo automaticamente. O alerta vai pra fiscalização do CRM e uma pessoa faz a análise técnica. Foi testado no CRM do Rio Grande do Norte e está sendo liberado aos poucos pros outros conselhos.\n\nEntão não é hora de apagar o perfil. É hora de olhar pra ele com calma. CRM e RQE na página principal, que a Resolução 2.336 exige. Legenda antiga prometendo resultado, porque post velho continua no ar. Antes e depois que virou vitrine em vez de explicação. E repost de paciente, que passa a responder como se fosse seu.\n\nSalva esse pra conferir com calma depois. E se você tem um colega que não faz ideia disso, manda pra ele — essa é a hora.\n\nConfirma sempre o caso específico com a sua assessoria.",
+      "instagram_media_id": null
+    },
+    {
       "id": "c1-ia-busca",
       "titulo": "O paciente perguntou pra IA, não pro Google",
       "data": "2026-07-16",
@@ -40,8 +57,8 @@
     {
       "id": "p2-recusa-cliente",
       "titulo": "A gente recusa cliente",
-      "data": "2026-07-17",
-      "pasta": "2026-07-17-recusa-cliente",
+      "data": "2026-07-18",
+      "pasta": "2026-07-18-recusa-cliente",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
