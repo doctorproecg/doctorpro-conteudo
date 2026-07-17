@@ -1,0 +1,33 @@
+# Agendador da publicação — Cloudflare Worker
+#
+# POR QUE ISSO EXISTE: o cron do GitHub Actions é "melhor esforço". Ele atrasa e
+# DESCARTA execuções em silêncio — aconteceu em 16/07 e de novo em 17/07/2026,
+# já com a escada de 4 tentativas no publicar.yml. Nos dois dias o post não saiu
+# e foi preciso disparar na mão.
+#
+# Este worker é o relógio confiável: todo dia ele chama o workflow_dispatch do
+# GitHub, que é o mesmo caminho que funciona quando se aperta "Run workflow".
+# A escada do Actions continua ligada como rede de segurança — o publicar.js
+# pula post já publicado, então disparo duplicado é inofensivo.
+
+name = "doctorpro-agendador"
+main = "src/index.js"
+compatibility_date = "2026-07-17"
+
+# Sem rota HTTP pública: este worker só roda por cron. Nada nele fica exposto.
+workers_dev = false
+
+[triggers]
+# ATENÇÃO: cron do Cloudflare é sempre em UTC. Brasília é UTC-3.
+# 10:50 UTC = 07:50 BRT — alvo principal, o post cai por volta das 8h.
+# 12:40 UTC = 09:40 BRT — rede de segurança, caso o GitHub esteja instável na 1ª.
+# Disparar duas vezes é seguro: a segunda não faz nada se a 1ª publicou.
+crons = ["50 10 * * *", "40 12 * * *"]
+
+[vars]
+GITHUB_REPO = "doctorproecg/doctorpro-conteudo"
+WORKFLOW = "publicar.yml"
+BRANCH = "main"
+
+# O token NÃO fica aqui. Ele é secret, gravado com:
+#   npx wrangler secret put GITHUB_TOKEN
