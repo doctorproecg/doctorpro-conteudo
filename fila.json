@@ -1,236 +1,236 @@
 {
-  "_leia": "status: rascunho -> aprovado -> publicado. SÓ 'aprovado' vai ao ar; o resto é pulado em silêncio. Depois de revisar os slides, troque para 'aprovado' e dê push.",
-  "posts": [
-    {
-      "id": "selfie-cfm",
-      "titulo": "Selfie de médico era proibido. Hoje não é.",
-      "data": "2026-08-10",
-      "pasta": "2026-08-10-selfie-cfm",
-      "status": "rascunho",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Selfie de médico já foi proibida de verdade. A regra que proibia foi revogada há mais de dois anos, e o seu perfil ainda se comporta como se não tivesse sido.\n\nA norma antiga, de 2011, vedava a publicação de autorretrato nas redes sociais. A Resolução 2.336, em vigor desde março de 2024, permite autorretrato, imagem e áudio. Está no artigo 8º, inciso III.\n\nE não é só o seu rosto. A resolução libera expressamente mostrar detalhes do seu ambiente de trabalho, a sua própria imagem e a da sua equipe clínica. Também libera falar de preço, com os meios e as formas de pagamento. E deixa você repostar elogio de paciente, desde que sóbrio, sem adjetivo de superioridade e sem virar promessa.\n\nLiberado não é vale-tudo. Continua fora sensacionalismo, concorrência desleal e qualquer coisa que garanta ou insinue resultado. A régua é simples: sóbrio e verídico. Se a imagem informa quem você é, pode. Se ela vende milagre, não.\n\nO que trava, então, não é mais a regra. É o hábito. Dois anos depois, muito consultório continua com foto de banco e legenda que poderia ser de qualquer um. E o paciente está escolhendo quem vai abrir a porta dele. Sem rosto, ele escolhe outro.\n\nVocê não precisa virar influencer. Precisa existir.\n\nSalva pra lembrar do que pode. E manda pro colega que ainda acha que é proibido — tem muito médico que se esconde por causa de uma regra que não existe mais.\n\nConfirma sempre o caso específico com a sua assessoria.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "cfm-ia-fiscaliza",
-      "titulo": "O CFM agora tem uma IA lendo o seu perfil",
-      "data": "2026-07-17",
-      "pasta": "2026-07-17-cfm-ia-fiscaliza",
-      "status": "publicado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "O CFM colocou uma inteligência artificial pra fiscalizar. E ela lê rede social.\n\nO anúncio é de junho: um módulo de IA dentro da Plataforma Nacional de Fiscalização, que faz busca automatizada em ambientes digitais. Ele cruza registro profissional, cadastro de empresa, dados da Receita Federal e o que está publicado na internet.\n\nO que mudou não foi a regra. Foi quem procura. Antes, o conselho abria apuração quando alguém denunciava. Agora o sistema varre, encontra o padrão e entrega o alerta pronto.\n\nEle foi feito pra achar três coisas: exercício irregular da medicina, falso médico e empresa de fachada, e publicidade em desacordo com as normas éticas. As duas primeiras não são o seu caso. A terceira alcança médico registrado, que atende bem, e que só nunca parou pra revisar o que já postou.\n\nAntes que você entre em pânico: nada vira processo automaticamente. O alerta vai pra fiscalização do CRM e uma pessoa faz a análise técnica. Foi testado no CRM do Rio Grande do Norte e está sendo liberado aos poucos pros outros conselhos.\n\nEntão não é hora de apagar o perfil. É hora de olhar pra ele com calma. CRM e RQE na página principal, que a Resolução 2.336 exige. Legenda antiga prometendo resultado, porque post velho continua no ar. Antes e depois que virou vitrine em vez de explicação. E repost de paciente, que passa a responder como se fosse seu.\n\nSalva esse pra conferir com calma depois. E se você tem um colega que não faz ideia disso, manda pra ele — essa é a hora.\n\nConfirma sempre o caso específico com a sua assessoria.",
-      "instagram_media_id": "17990784053825977",
-      "publicado_em": "2026-07-17T12:09:11.648Z"
-    },
-    {
-      "id": "c1-ia-busca",
-      "titulo": "O paciente perguntou pra IA, não pro Google",
-      "data": "2026-07-16",
-      "pasta": "2026-07-13-ia-busca",
-      "status": "publicado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Seu próximo paciente talvez não te procure no Google. Ele vai descrever o sintoma numa IA e receber três nomes de volta.\n\nE é aí que a conta muda. A primeira página do Google tinha dez resultados, e dava pra estar em qualquer um deles. A resposta da IA tem três. Ou você está entre eles, ou você não existe naquela conversa.\n\nO que decide isso não é reputação, é o que a máquina consegue ler sobre você: perfil no Google completo e na categoria certa, avaliações recentes, e algum conteúdo que confirme quem você é.\n\nQuase nenhum médico está olhando pra isso ainda. Quem arrumar agora vai colher por muito tempo.\n\nSalva pra não esquecer de conferir o seu. E se você conhece um colega excelente que ninguém acha, manda pra ele.",
-      "instagram_media_id": "18400034581089978",
-      "publicado_em": "2026-07-16T12:59:00.372Z"
-    },
-    {
-      "id": "g1-quanto-custa",
-      "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
-      "data": "2026-07-15",
-      "pasta": "2026-07-15-quanto-custa",
-      "status": "publicado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "\"Bom dia, gostaria de saber o valor da consulta.\"\n\nChega no WhatsApp toda semana. E a resposta que quase todo consultório dá é o preço, seco. Depois disso, silêncio.\n\nO médico entende esse silêncio como \"achou caro\". Quase nunca é isso. O paciente ficou na dúvida, e dúvida não vira agendamento.\n\nUm número sozinho não diz nada. Ninguém compra um valor, compra a certeza de que aquilo resolve o problema. Quando você manda só o preço, entrega a única informação com que ele não sabe o que fazer.\n\nMesmo preço, outro caminho: devolve com uma pergunta sobre o que ele está sentindo, diz o que está incluso na consulta, e oferece dois horários em vez de deixar em aberto.\n\nNão é técnica de vendas. É não deixar a pessoa sozinha com um número.\n\nSalva esse. E se quem responde o WhatsApp do seu consultório não é você, manda pra ela.",
-      "instagram_media_id": "17876747532512031",
-      "publicado_em": "2026-07-15T16:12:53.389Z"
-    },
-    {
-      "id": "p2-recusa-cliente",
-      "titulo": "A gente recusa cliente",
-      "data": "2026-07-18",
-      "pasta": "2026-07-18-recusa-cliente",
-      "status": "publicado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png"
-      ],
-      "legenda": "A gente recusa cliente. Não é postura de escassez, é que aceitar quem a gente não consegue ajudar seria roubar.\n\nSão sempre as mesmas três situações.\n\nQuem quer resultado em 30 dias. Autoridade médica não se constrói em um mês, e quem promete isso está vendendo, não entregando.\n\nQuem quer prometer cura no anúncio. A Resolução CFM 2.336 é clara sobre isso, e a gente não coloca o CRM de ninguém em risco por engajamento.\n\nE quem não quer aparecer de jeito nenhum. Dá pra fazer muita coisa sem virar influencer, mas alguma presença é inegociável. Sem rosto, não existe confiança.\n\nO resultado é uma carteira menor. Preferimos poucos médicos crescendo de verdade a uma lista cheia de gente insatisfeita.\n\nSe você está escolhendo quem cuida do seu marketing, faz a pergunta ao contrário: pergunta quem eles recusam. A resposta diz mais que qualquer portfólio.\n\nSegue a gente se esse tipo de conversa te interessa.",
-      "instagram_media_id": "18101300816598874",
-      "publicado_em": "2026-07-18T10:51:33.657Z"
-    },
-    {
-      "id": "metodo-ecg-v2",
-      "titulo": "O ECG do seu marketing (Método ECG)",
-      "data": "2026-07-20",
-      "pasta": "2026-07-20-metodo-ecg",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Agenda travada quase nunca é um problema só. São três.\n\nO paciente que não te conhece. O que não te encontra. E o que te procura no WhatsApp, mas some antes de marcar.\n\nA gente chama isso de ler o ECG do seu marketing: olhar os três batimentos e achar onde o ritmo falha. Engajamento e autoridade, pra te conhecerem. Captação, pra te acharem. Gestão da conversão, pra quem chega, marcar.\n\nUm sinal sozinho já atrapalha. Os três juntos é a agenda parada sem você entender por quê.\n\nSalva pra lembrar dos três. E se você sente que trava em algum, o diagnóstico é gratuito.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "google-negocio-v2",
-      "titulo": "Google Meu Negócio: a recepção que atende 24h",
-      "data": "2026-07-22",
-      "pasta": "2026-07-22-google-negocio",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Todo dia, alguém na sua região digita o seu tipo de médico no Google. E decide em segundos entre os dois ou três primeiros nomes.\n\nSe o seu perfil está vazio, com categoria genérica ou sem avaliação recente, você nem entra nessa disputa. Não perde pro médico melhor. Perde pro médico que aparece.\n\nQuatro coisas decidem: categoria certa (a especialidade exata, não \"médico\"), avaliações recentes, fotos reais do consultório, e horário e telefone corretos.\n\nO perfil no Google é a sua recepção, e ela atende 24 horas. Vale conferir como está a sua agora.\n\nSalva esse. E manda pra um colega que tem um perfil abandonado.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "cfm-antes-depois",
-      "titulo": "CFM: antes e depois voltou a ser permitido",
-      "data": "2026-07-24",
-      "pasta": "2026-07-24-cfm-antes-depois",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Desde março de 2024, a Resolução CFM 2.336 permite antes e depois. Com três condições, e a maioria dos médicos ainda não sabe.\n\nAs três: caráter educativo (mostrar pra explicar, não pra vender resultado), consentimento e privacidade do paciente, e nada de sensacionalismo ou promessa de resultado.\n\nO que continua fora: garantir resultado, usar como vitrine de venda, e expor paciente sem autorização.\n\nBem-feito, o antes e depois é o conteúdo que mais gera confiança no seu nicho. O medo de infringir é o que está te deixando atrás de quem faz certo.\n\nSalva pra não errar na hora de postar. E confirma sempre o caso específico com a sua assessoria.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "sala-vazia",
-      "titulo": "A sala mais bonita não vale nada vazia (post único)",
-      "data": "2026-07-27",
-      "pasta": "2026-07-27-sala-vazia",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png"
-      ],
-      "legenda": "A sala de espera mais bonita da cidade não vale nada vazia.\n\nConsultório cheio não é sobre ser o melhor médico. É sobre ser o que a pessoa encontra na hora que precisa. Competência não preenche agenda sozinha.\n\nÉ pra isso que a gente existe: fazer o bom médico ser encontrado.\n\nSegue a gente se você quer a sala cheia pelo motivo certo.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "secretaria-funil",
-      "titulo": "A secretária é o seu funil",
-      "data": "2026-07-29",
-      "pasta": "2026-07-29-secretaria",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Você paga pra o paciente chegar. Aí ele chega, manda mensagem, e quem responde decide se aquilo vira consulta ou não.\n\nEsse é o gargalo mais barato de arrumar e o mais ignorado do consultório.\n\nO paciente costuma falar com dois ou três lugares ao mesmo tempo. Quem responde primeiro, e melhor, quase sempre leva. Mesmo cobrando mais caro.\n\nQuatro coisas mudam o jogo: responder rápido nem que seja um \"já te respondo com calma\", nunca responder só \"não\", perguntar antes de informar, e oferecer dois horários em vez de deixar pergunta aberta.\n\nNão adianta encher o topo do funil se o fundo está furado.\n\nSalva esse. E se não é você quem responde o WhatsApp, manda pra quem responde.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "feed-cansou-ia",
-      "titulo": "O ano em que o feed cansou de IA (post único)",
-      "data": "2026-07-31",
-      "pasta": "2026-07-31-feed-ia",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png"
-      ],
-      "legenda": "Legenda de robô, foto de banco, carrossel que parece saída de um botão. O feed está entupido disso, e o paciente já reconhece o padrão mesmo sem saber explicar.\n\nO que ele sente é desconfiança. E desconfiança é a última coisa que um médico pode gerar.\n\nParecer humano deixou de ser preciosismo e virou vantagem. Não é estética. É confiança.\n\nSegue a gente se você prefere parecer você mesmo.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "avaliacoes-cfm",
-      "titulo": "Como pedir avaliação sem infringir o CFM",
-      "data": "2026-08-03",
-      "pasta": "2026-08-03-avaliacoes",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Você pode pedir avaliação. O CFM não proíbe.\n\nNa dúvida, o médico simplesmente não pede. E fica com sete avaliações enquanto o concorrente tem cento e oitenta. Não porque atende pior. Porque pede, e você não.\n\nO que pode: convidar o paciente a avaliar, sem direcionar o que ele deve escrever. E repostar elogio sóbrio, que a Resolução 2.336 permite, desde que sem adjetivo de superioridade e sem virar promessa.\n\nO que não pode: oferecer qualquer coisa em troca (desconto, brinde, sorteio), porque aí deixa de ser opinião e vira pagamento. E ditar o texto ou pedir \"5 estrelas\".\n\nUm pedido que funciona: \"Se puder deixar sua opinião no Google, ajuda outras pessoas a decidirem se eu sou o médico certo pra elas. Escreve com suas palavras, do jeito que você sentiu.\"\n\nSalva pra usar depois da próxima consulta. E confirma sempre o caso específico com a sua assessoria.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "reels-nao-precisa",
-      "titulo": "Você não precisa dançar no Reels",
-      "data": "2026-08-05",
-      "pasta": "2026-08-05-reels",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Você não precisa dançar no Reels. Essa é a parte que mais afasta médico do Instagram, e é justamente a que não precisa existir.\n\nNinguém marca consulta porque o médico fez uma trend. As pessoas marcam com quem parece que entende do assunto e transmite segurança. Isso não se prova dançando. Se prova explicando.\n\nE tem mais: em 2026 o carrossel voltou. Depois de anos empurrando Reels, o Instagram voltou a distribuir carrossel educativo, principalmente em saúde. O formato que exige menos palco é o que está rendendo mais alcance.\n\nO que fazer no lugar: traduzir em vez de ensinar, aparecer com parcimônia, e ser constante.\n\nSalva esse. E manda pro colega que jura que precisa virar influencer pra crescer.",
-      "instagram_media_id": null
-    },
-    {
-      "id": "no-show",
-      "titulo": "O paciente que confirma e não aparece",
-      "data": "2026-08-07",
-      "pasta": "2026-08-07-no-show",
-      "status": "aprovado",
-      "slides": [
-        "slide-01.png",
-        "slide-02.png",
-        "slide-03.png",
-        "slide-04.png",
-        "slide-05.png",
-        "slide-06.png"
-      ],
-      "legenda": "Ele confirmou. E não apareceu.\n\nO horário estava vendido, a sala reservada, e ninguém sentou. O buraco mais caro da agenda não é o horário vago. É o que você achou que estava cheio.\n\nCada falta custa dobrado: você perde a consulta que não aconteceu e o paciente que ficou de fora porque a agenda parecia lotada.\n\nO que reduz de verdade não é multa. São três lembretes: na hora que marcou, na véspera pedindo resposta (\"confirma ou prefere remarcar?\"), e nas horas antes com localização e onde estacionar.\n\nFalta quase nunca é descaso. É atrito. Esqueceu, não sabia chegar, teve vergonha de desmarcar. Quase tudo isso se resolve com uma mensagem na hora certa.\n\nSalva esse. E manda pra quem cuida da sua agenda.",
-      "instagram_media_id": null
-    }
-  ]
+ "_leia": "status: rascunho -> aprovado -> publicado. SÓ 'aprovado' vai ao ar; o resto é pulado em silêncio. Depois de revisar os slides, troque para 'aprovado' e dê push.",
+ "posts": [
+  {
+   "id": "selfie-cfm",
+   "titulo": "Selfie de médico era proibido. Hoje não é.",
+   "data": "2026-08-10",
+   "pasta": "2026-08-10-selfie-cfm",
+   "status": "rascunho",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Selfie de médico já foi proibida de verdade. A regra que proibia foi revogada há mais de dois anos, e o seu perfil ainda se comporta como se não tivesse sido.\n\nA norma antiga, de 2011, vedava a publicação de autorretrato nas redes sociais. A Resolução 2.336, em vigor desde março de 2024, permite autorretrato, imagem e áudio. Está no artigo 8º, inciso III.\n\nE não é só o seu rosto. A resolução libera expressamente mostrar detalhes do seu ambiente de trabalho, a sua própria imagem e a da sua equipe clínica. Também libera falar de preço, com os meios e as formas de pagamento. E deixa você repostar elogio de paciente, desde que sóbrio, sem adjetivo de superioridade e sem virar promessa.\n\nLiberado não é vale-tudo. Continua fora sensacionalismo, concorrência desleal e qualquer coisa que garanta ou insinue resultado. A régua é simples: sóbrio e verídico. Se a imagem informa quem você é, pode. Se ela vende milagre, não.\n\nO que trava, então, não é mais a regra. É o hábito. Dois anos depois, muito consultório continua com foto de banco e legenda que poderia ser de qualquer um. E o paciente está escolhendo quem vai abrir a porta dele. Sem rosto, ele escolhe outro.\n\nVocê não precisa virar influencer. Precisa existir.\n\nSalva pra lembrar do que pode. E manda pro colega que ainda acha que é proibido — tem muito médico que se esconde por causa de uma regra que não existe mais.\n\nConfirma sempre o caso específico com a sua assessoria.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "cfm-ia-fiscaliza",
+   "titulo": "O CFM agora tem uma IA lendo o seu perfil",
+   "data": "2026-07-17",
+   "pasta": "2026-07-17-cfm-ia-fiscaliza",
+   "status": "publicado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "O CFM colocou uma inteligência artificial pra fiscalizar. E ela lê rede social.\n\nO anúncio é de junho: um módulo de IA dentro da Plataforma Nacional de Fiscalização, que faz busca automatizada em ambientes digitais. Ele cruza registro profissional, cadastro de empresa, dados da Receita Federal e o que está publicado na internet.\n\nO que mudou não foi a regra. Foi quem procura. Antes, o conselho abria apuração quando alguém denunciava. Agora o sistema varre, encontra o padrão e entrega o alerta pronto.\n\nEle foi feito pra achar três coisas: exercício irregular da medicina, falso médico e empresa de fachada, e publicidade em desacordo com as normas éticas. As duas primeiras não são o seu caso. A terceira alcança médico registrado, que atende bem, e que só nunca parou pra revisar o que já postou.\n\nAntes que você entre em pânico: nada vira processo automaticamente. O alerta vai pra fiscalização do CRM e uma pessoa faz a análise técnica. Foi testado no CRM do Rio Grande do Norte e está sendo liberado aos poucos pros outros conselhos.\n\nEntão não é hora de apagar o perfil. É hora de olhar pra ele com calma. CRM e RQE na página principal, que a Resolução 2.336 exige. Legenda antiga prometendo resultado, porque post velho continua no ar. Antes e depois que virou vitrine em vez de explicação. E repost de paciente, que passa a responder como se fosse seu.\n\nSalva esse pra conferir com calma depois. E se você tem um colega que não faz ideia disso, manda pra ele — essa é a hora.\n\nConfirma sempre o caso específico com a sua assessoria.",
+   "instagram_media_id": "17990784053825977",
+   "publicado_em": "2026-07-17T12:09:11.648Z"
+  },
+  {
+   "id": "c1-ia-busca",
+   "titulo": "O paciente perguntou pra IA, não pro Google",
+   "data": "2026-07-16",
+   "pasta": "2026-07-13-ia-busca",
+   "status": "publicado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Seu próximo paciente talvez não te procure no Google. Ele vai descrever o sintoma numa IA e receber três nomes de volta.\n\nE é aí que a conta muda. A primeira página do Google tinha dez resultados, e dava pra estar em qualquer um deles. A resposta da IA tem três. Ou você está entre eles, ou você não existe naquela conversa.\n\nO que decide isso não é reputação, é o que a máquina consegue ler sobre você: perfil no Google completo e na categoria certa, avaliações recentes, e algum conteúdo que confirme quem você é.\n\nQuase nenhum médico está olhando pra isso ainda. Quem arrumar agora vai colher por muito tempo.\n\nSalva pra não esquecer de conferir o seu. E se você conhece um colega excelente que ninguém acha, manda pra ele.",
+   "instagram_media_id": "18400034581089978",
+   "publicado_em": "2026-07-16T12:59:00.372Z"
+  },
+  {
+   "id": "g1-quanto-custa",
+   "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
+   "data": "2026-07-15",
+   "pasta": "2026-07-15-quanto-custa",
+   "status": "publicado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "\"Bom dia, gostaria de saber o valor da consulta.\"\n\nChega no WhatsApp toda semana. E a resposta que quase todo consultório dá é o preço, seco. Depois disso, silêncio.\n\nO médico entende esse silêncio como \"achou caro\". Quase nunca é isso. O paciente ficou na dúvida, e dúvida não vira agendamento.\n\nUm número sozinho não diz nada. Ninguém compra um valor, compra a certeza de que aquilo resolve o problema. Quando você manda só o preço, entrega a única informação com que ele não sabe o que fazer.\n\nMesmo preço, outro caminho: devolve com uma pergunta sobre o que ele está sentindo, diz o que está incluso na consulta, e oferece dois horários em vez de deixar em aberto.\n\nNão é técnica de vendas. É não deixar a pessoa sozinha com um número.\n\nSalva esse. E se quem responde o WhatsApp do seu consultório não é você, manda pra ela.",
+   "instagram_media_id": "17876747532512031",
+   "publicado_em": "2026-07-15T16:12:53.389Z"
+  },
+  {
+   "id": "p2-recusa-cliente",
+   "titulo": "A gente recusa cliente",
+   "data": "2026-07-18",
+   "pasta": "2026-07-18-recusa-cliente",
+   "status": "publicado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png"
+   ],
+   "legenda": "A gente recusa cliente. Não é postura de escassez, é que aceitar quem a gente não consegue ajudar seria roubar.\n\nSão sempre as mesmas três situações.\n\nQuem quer resultado em 30 dias. Autoridade médica não se constrói em um mês, e quem promete isso está vendendo, não entregando.\n\nQuem quer prometer cura no anúncio. A Resolução CFM 2.336 é clara sobre isso, e a gente não coloca o CRM de ninguém em risco por engajamento.\n\nE quem não quer aparecer de jeito nenhum. Dá pra fazer muita coisa sem virar influencer, mas alguma presença é inegociável. Sem rosto, não existe confiança.\n\nO resultado é uma carteira menor. Preferimos poucos médicos crescendo de verdade a uma lista cheia de gente insatisfeita.\n\nSe você está escolhendo quem cuida do seu marketing, faz a pergunta ao contrário: pergunta quem eles recusam. A resposta diz mais que qualquer portfólio.\n\nSegue a gente se esse tipo de conversa te interessa.",
+   "instagram_media_id": "18101300816598874",
+   "publicado_em": "2026-07-18T10:51:33.657Z"
+  },
+  {
+   "id": "metodo-ecg-v2",
+   "titulo": "O ECG do seu marketing (Método ECG)",
+   "data": "2026-07-20",
+   "pasta": "2026-07-20-metodo-ecg",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Agenda travada quase nunca é um problema só. São três.\n\nO paciente que não te conhece. O que não te encontra. E o que te procura no WhatsApp, mas some antes de marcar.\n\nA gente chama isso de ler o ECG do seu marketing: olhar os três batimentos e achar onde o ritmo falha. Engajamento e autoridade, pra te conhecerem. Captação, pra te acharem. Gestão da conversão, pra quem chega, marcar.\n\nUm sinal sozinho já atrapalha. Os três juntos é a agenda parada sem você entender por quê.\n\nSalva pra lembrar dos três. E se você sente que trava em algum, o diagnóstico é gratuito.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "google-negocio-v2",
+   "titulo": "Google Meu Negócio: a recepção que atende 24h",
+   "data": "2026-07-22",
+   "pasta": "2026-07-22-google-negocio",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Todo dia, alguém na sua região digita o seu tipo de médico no Google. E decide em segundos entre os dois ou três primeiros nomes.\n\nSe o seu perfil está vazio, com categoria genérica ou sem avaliação recente, você nem entra nessa disputa. Não perde pro médico melhor. Perde pro médico que aparece.\n\nQuatro coisas decidem: categoria certa (a especialidade exata, não \"médico\"), avaliações recentes, fotos reais do consultório, e horário e telefone corretos.\n\nO perfil no Google é a sua recepção, e ela atende 24 horas. Vale conferir como está a sua agora.\n\nSalva esse. E manda pra um colega que tem um perfil abandonado.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "cfm-antes-depois",
+   "titulo": "CFM: antes e depois voltou a ser permitido",
+   "data": "2026-07-24",
+   "pasta": "2026-07-24-cfm-antes-depois",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Desde março de 2024, a Resolução CFM 2.336 permite antes e depois. Com três condições, e a maioria dos médicos ainda não sabe.\n\nAs três: caráter educativo (mostrar pra explicar, não pra vender resultado), consentimento e privacidade do paciente, e nada de sensacionalismo ou promessa de resultado.\n\nO que continua fora: garantir resultado, usar como vitrine de venda, e expor paciente sem autorização.\n\nBem-feito, o antes e depois é o conteúdo que mais gera confiança no seu nicho. O medo de infringir é o que está te deixando atrás de quem faz certo.\n\nSalva pra não errar na hora de postar. E confirma sempre o caso específico com a sua assessoria.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "sala-vazia",
+   "titulo": "A sala mais bonita não vale nada vazia (post único)",
+   "data": "2026-07-27",
+   "pasta": "2026-07-27-sala-vazia",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png"
+   ],
+   "legenda": "A sala de espera mais bonita da cidade não vale nada vazia.\n\nConsultório cheio não é sobre ser o melhor médico. É sobre ser o que a pessoa encontra na hora que precisa. Competência não preenche agenda sozinha.\n\nÉ pra isso que a gente existe: fazer o bom médico ser encontrado.\n\nSegue a gente se você quer a sala cheia pelo motivo certo.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "secretaria-funil",
+   "titulo": "A secretária é o seu funil",
+   "data": "2026-07-29",
+   "pasta": "2026-07-29-secretaria",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Você paga pra o paciente chegar. Aí ele chega, manda mensagem, e quem responde decide se aquilo vira consulta ou não.\n\nEsse é o gargalo mais barato de arrumar e o mais ignorado do consultório.\n\nO paciente costuma falar com dois ou três lugares ao mesmo tempo. Quem responde primeiro, e melhor, quase sempre leva. Mesmo cobrando mais caro.\n\nQuatro coisas mudam o jogo: responder rápido nem que seja um \"já te respondo com calma\", nunca responder só \"não\", perguntar antes de informar, e oferecer dois horários em vez de deixar pergunta aberta.\n\nNão adianta encher o topo do funil se o fundo está furado.\n\nSalva esse. E se não é você quem responde o WhatsApp, manda pra quem responde.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "medico-bom-menos-conhecido",
+   "titulo": "Por que o medico bom e o menos conhecido (post unico)",
+   "data": "2026-07-31",
+   "pasta": "2026-07-31-medico-bom",
+   "status": "rascunho",
+   "slides": [
+    "slide-01.png"
+   ],
+   "legenda": "Todo médico conhece um colega assim: atende muito bem, os pacientes que chegam nele ficam, e mesmo assim a agenda dele é mais vazia que a do concorrente.\n\nNão é injustiça do acaso. O paciente não tem como avaliar competência antes da consulta. Ele avalia o que consegue ver: o perfil, as avaliações, o que aparece quando ele procura. Quem é mais fácil de achar ganha a chance de provar que é bom. Quem não aparece nem chega a ser comparado.\n\nSer bom é o que segura o paciente. Não é o que traz ele.\n\nSe você conhece um médico que se encaixa nisso, manda pra ele.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "avaliacoes-cfm",
+   "titulo": "Como pedir avaliação sem infringir o CFM",
+   "data": "2026-08-03",
+   "pasta": "2026-08-03-avaliacoes",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Você pode pedir avaliação. O CFM não proíbe.\n\nNa dúvida, o médico simplesmente não pede. E fica com sete avaliações enquanto o concorrente tem cento e oitenta. Não porque atende pior. Porque pede, e você não.\n\nO que pode: convidar o paciente a avaliar, sem direcionar o que ele deve escrever. E repostar elogio sóbrio, que a Resolução 2.336 permite, desde que sem adjetivo de superioridade e sem virar promessa.\n\nO que não pode: oferecer qualquer coisa em troca (desconto, brinde, sorteio), porque aí deixa de ser opinião e vira pagamento. E ditar o texto ou pedir \"5 estrelas\".\n\nUm pedido que funciona: \"Se puder deixar sua opinião no Google, ajuda outras pessoas a decidirem se eu sou o médico certo pra elas. Escreve com suas palavras, do jeito que você sentiu.\"\n\nSalva pra usar depois da próxima consulta. E confirma sempre o caso específico com a sua assessoria.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "reels-nao-precisa",
+   "titulo": "Você não precisa dançar no Reels",
+   "data": "2026-08-05",
+   "pasta": "2026-08-05-reels",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Você não precisa dançar no Reels. Essa é a parte que mais afasta médico do Instagram, e é justamente a que não precisa existir.\n\nNinguém marca consulta porque o médico fez uma trend. As pessoas marcam com quem parece que entende do assunto e transmite segurança. Isso não se prova dançando. Se prova explicando.\n\nE tem mais: em 2026 o carrossel voltou. Depois de anos empurrando Reels, o Instagram voltou a distribuir carrossel educativo, principalmente em saúde. O formato que exige menos palco é o que está rendendo mais alcance.\n\nO que fazer no lugar: traduzir em vez de ensinar, aparecer com parcimônia, e ser constante.\n\nSalva esse. E manda pro colega que jura que precisa virar influencer pra crescer.",
+   "instagram_media_id": null
+  },
+  {
+   "id": "no-show",
+   "titulo": "O paciente que confirma e não aparece",
+   "data": "2026-08-07",
+   "pasta": "2026-08-07-no-show",
+   "status": "aprovado",
+   "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+   ],
+   "legenda": "Ele confirmou. E não apareceu.\n\nO horário estava vendido, a sala reservada, e ninguém sentou. O buraco mais caro da agenda não é o horário vago. É o que você achou que estava cheio.\n\nCada falta custa dobrado: você perde a consulta que não aconteceu e o paciente que ficou de fora porque a agenda parecia lotada.\n\nO que reduz de verdade não é multa. São três lembretes: na hora que marcou, na véspera pedindo resposta (\"confirma ou prefere remarcar?\"), e nas horas antes com localização e onde estacionar.\n\nFalta quase nunca é descaso. É atrito. Esqueceu, não sabia chegar, teve vergonha de desmarcar. Quase tudo isso se resolve com uma mensagem na hora certa.\n\nSalva esse. E manda pra quem cuida da sua agenda.",
+   "instagram_media_id": null
+  }
+ ]
 }

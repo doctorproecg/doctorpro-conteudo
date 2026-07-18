@@ -2,3 +2,7 @@
 .env.*
 .DS_Store
 Thumbs.db
+
+# Cache e build do Wrangler (contem id da conta Cloudflare)
+.wrangler/
+node_modules/
