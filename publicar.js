@@ -49,9 +49,9 @@ function exigir(nome) {
   return v;
 }
 
-async function graph(caminho, params, metodo = 'POST') {
+async function graph(caminho, params, metodo = 'POST', tok = token) {
   const url = new URL(`${BASE}/${caminho}`);
-  const corpo = new URLSearchParams({ ...params, access_token: token });
+  const corpo = new URLSearchParams({ ...params, access_token: tok });
 
   const r = metodo === 'GET'
     ? await fetch(`${url}?${corpo}`)
@@ -89,6 +89,54 @@ const igUser = exigir('IG_USER_ID');
 const token = exigir('IG_ACCESS_TOKEN');
 const repo = exigir('GITHUB_REPOSITORY');
 const branch = process.env.GITHUB_REF_NAME || 'main';
+
+// Facebook é OPCIONAL: sem FB_PAGE_ID o script se comporta exatamente como antes,
+// só Instagram. Instagram e Página do Facebook são duas APIs separadas — postar
+// numa não posta na outra, então a Página precisa de uma publicação própria.
+const fbPageId = process.env.FB_PAGE_ID || null;
+
+/**
+ * Publica na Página do Facebook o mesmo conjunto de slides.
+ *
+ * Sobe cada imagem como foto NÃO publicada (published=false) pra pegar o id de
+ * cada uma, e depois cria um post único no feed com todas em attached_media —
+ * é o equivalente do carrossel do Instagram. Uma foto só também passa por aqui:
+ * vira um feed com um attached_media, o que evita depender do nome do campo de
+ * legenda do endpoint /photos.
+ *
+ * O token do Instagram (usuário do sistema com controle da Página) serve pra
+ * derivar o token da própria Página, que é o que a API de Página exige.
+ *
+ * Precisa da permissão `pages_manage_posts` no token — as permissões originais
+ * (instagram_content_publish, pages_show_list, pages_read_engagement,
+ * business_management) NÃO incluem essa. Sem ela, a API devolve erro de
+ * permissão e esta função registra o aviso sem derrubar a publicação do IG.
+ */
+async function publicarNoFacebook(post) {
+  // token da Página, derivado do token do sistema
+  const { access_token: pageToken } = await graph(
+    fbPageId, { fields: 'access_token' }, 'GET'
+  );
+  if (!pageToken) throw new Error('A Página não devolveu access_token — o token do sistema controla essa Página?');
+
+  const fbids = [];
+  for (const slide of post.slides) {
+    const { id } = await graph(
+      `${fbPageId}/photos`,
+      { url: urlDe(slide), published: 'false', temporary: 'true' },
+      'POST',
+      pageToken
+    );
+    fbids.push(id);
+    console.log(`  [fb] foto ${slide} → ${id}`);
+  }
+
+  const params = { message: post.legenda };
+  fbids.forEach((id, i) => { params[`attached_media[${i}]`] = JSON.stringify({ media_fbid: id }); });
+
+  const { id: postId } = await graph(`${fbPageId}/feed`, params, 'POST', pageToken);
+  return postId;
+}
 
 const fila = JSON.parse(await readFile(FILA, 'utf8'));
 const alvo = dataArg || hojeBRT();
@@ -130,7 +178,8 @@ console.log(`Publicando "${post.titulo}" (${post.slides.length} slides) em ${alv
 post.slides.forEach((s) => console.log(`  ${urlDe(s)}`));
 
 if (seco) {
-  console.log('\n--seco: parei antes de chamar a API de publicação.');
+  console.log(`\ndestino Facebook: ${fbPageId ? `Página ${fbPageId}` : 'desligado (sem FB_PAGE_ID)'}`);
+  console.log('--seco: parei antes de chamar a API de publicação.');
   process.exit(0);
 }
 
@@ -170,6 +219,25 @@ post.status = 'publicado';
 post.instagram_media_id = mediaId;
 post.publicado_em = new Date().toISOString();
 
-await writeFile(FILA, JSON.stringify(fila, null, 2) + '\n');
+console.log(`\nInstagram publicado. media_id ${mediaId}`);
 
-console.log(`\nPublicado. media_id ${mediaId}`);
+// Facebook vem depois e é isolado: o Instagram já está no ar e marcado como
+// publicado. Se a Página falhar (token sem pages_manage_posts, por exemplo),
+// registramos o motivo e seguimos — não dá pra "despublicar" o Instagram, e o
+// post não pode voltar pra fila e sair duplicado amanhã.
+if (fbPageId) {
+  try {
+    const fbId = await publicarNoFacebook(post);
+    post.facebook_post_id = fbId;
+    post.facebook_em = new Date().toISOString();
+    console.log(`Facebook publicado. post_id ${fbId}`);
+  } catch (e) {
+    post.facebook_erro = e.message;
+    console.error(`\n⚠️  Instagram saiu, mas o Facebook falhou: ${e.message}`);
+    console.error('   O post do Instagram está no ar. Corrija a Página e publique lá na mão, ou ajuste o token.');
+  }
+} else {
+  console.log('FB_PAGE_ID não definido — pulando o Facebook (só Instagram).');
+}
+
+await writeFile(FILA, JSON.stringify(fila, null, 2) + '\n');

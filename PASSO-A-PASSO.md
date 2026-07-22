@@ -100,6 +100,49 @@ Assim o robô usa o token sem ele aparecer em lugar nenhum.
 
 ---
 
+## BLOCO 5 — Publicar também na Página do Facebook (opcional, ~10 min)
+
+Instagram e Página do Facebook são duas coisas separadas na API: postar num **não**
+posta no outro. Por padrão o robô só faz o Instagram. Pra ligar o Facebook junto,
+faltam duas coisas: dar ao token a permissão de postar em Página, e dizer ao robô
+qual é a Página.
+
+### 5a. Adicionar a permissão que falta ao token
+O token do Bloco 3 **não** tem permissão de postar em Página (só de ler). Refaça o
+passo 3b e, na lista de permissões, marque também:
+
+- `pages_manage_posts`   ← a que faltava
+
+Gere um token novo com **expiração Nunca** e atualize o secret `IG_ACCESS_TOKEN` no
+GitHub (Bloco 4) com o valor novo. O Instagram continua funcionando com o mesmo token.
+
+### 5b. Descobrir o número da Página (FB_PAGE_ID)
+É o número da **Página**, diferente do IG_USER_ID (aquele era o do Instagram).
+
+1. Abra https://developers.facebook.com/tools/explorer
+2. Selecione o app, cole o token novo.
+3. Consulte `me/accounts` → **Enviar**. Vem o `id` da Página — copie esse número.
+
+👉 Pode me colar (é número de conta, não senha). Eu confirmo qual é.
+
+### 5c. Guardar o número no GitHub
+No repositório `doctorpro-conteudo` → **Settings** → **Secrets and variables** →
+**Actions** → **New repository secret**:
+
+- Nome `FB_PAGE_ID`, valor = o número do passo 5b.
+
+### 5d. Testar
+Aba **Actions** → **Publicar no Instagram** → **Run workflow** → marque **seco** → rode.
+No log, procure a linha `destino Facebook: Página <número>`. Se aparecer o número (e
+não "desligado"), o robô achou a Página. A próxima publicação de verdade sai nos dois.
+
+> Se algo der errado no Facebook na hora de publicar, o robô **ainda publica no
+> Instagram** e anota o erro — o post nunca fica pela metade nem sai duplicado.
+> Os posts que já foram ao ar no Instagram **não** vão pro Facebook sozinhos: só
+> valem os próximos. Os antigos, se quiser, dá pra postar na Página na mão.
+
+---
+
 ## Pronto. Como fica o dia a dia
 
 - Eu gero os 3 carrosséis da semana e te aviso.
