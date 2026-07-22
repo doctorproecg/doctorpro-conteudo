@@ -1,13 +1,18 @@
 # Passo a passo — ligar a publicação automática
 
-São 4 blocos. Faz tudo numa sentada (~40 min) que nunca mais mexe.
-Onde aparecer 👉, é pra me colar o resultado aqui no chat que eu monto o próximo valor pra você.
+> **Situação em 18/07/2026:** os Blocos 1 a 4 já estão FEITOS e a publicação no
+> Instagram está no ar — o robô já publicou sozinho nos dias agendados. Os blocos
+> abaixo ficam só como registro de como foi montado. **O único pendente é o
+> BLOCO 5** (ligar o Facebook junto), que é opcional.
 
-O repositório local **já está pronto e commitado**. Você não precisa criar nada de conteúdo.
+Onde aparecer 👉, é pra me colar o resultado aqui no chat que eu monto o próximo valor pra você.
 
 ---
 
-## BLOCO 1 — Colocar os arquivos no GitHub (~8 min)
+## ✅ BLOCO 1 — Colocar os arquivos no GitHub (FEITO)
+
+> Já está no ar em `github.com/doctorproecg/doctorpro-conteudo`. Nada a fazer.
+> O texto abaixo é só o registro de como foi montado.
 
 Isso deixa as imagens num link público, que é de onde o Instagram vai buscar.
 
@@ -33,7 +38,7 @@ Isso deixa as imagens num link público, que é de onde o Instagram vai buscar.
 
 ---
 
-## BLOCO 2 — Preparar a conta (~10 min)
+## ✅ BLOCO 2 — Preparar a conta (FEITO)
 
 O Instagram só publica por API se a conta for profissional e estiver ligada a uma Página do Facebook.
 
@@ -45,7 +50,7 @@ Quando o Instagram e a Página estiverem ligados, o Bloco 2 acabou.
 
 ---
 
-## BLOCO 3 — Criar o app e o token na Meta (~15 min)
+## ✅ BLOCO 3 — Criar o app e o token na Meta (FEITO)
 
 Aqui é onde nasce a "chave" que deixa o robô postar. **Só você consegue gerar, é a sua conta.**
 
@@ -87,7 +92,7 @@ Caminho recomendado (token que **nunca expira**):
 
 ---
 
-## BLOCO 4 — Guardar o token no GitHub (~5 min)
+## ✅ BLOCO 4 — Guardar o token no GitHub (FEITO)
 
 Assim o robô usa o token sem ele aparecer em lugar nenhum.
 
@@ -100,7 +105,7 @@ Assim o robô usa o token sem ele aparecer em lugar nenhum.
 
 ---
 
-## BLOCO 5 — Publicar também na Página do Facebook (opcional, ~10 min)
+## ⬜ BLOCO 5 — Publicar também na Página do Facebook (PENDENTE, opcional, ~10 min)
 
 Instagram e Página do Facebook são duas coisas separadas na API: postar num **não**
 posta no outro. Por padrão o robô só faz o Instagram. Pra ligar o Facebook junto,
