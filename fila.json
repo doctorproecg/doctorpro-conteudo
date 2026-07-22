@@ -112,7 +112,7 @@
       "titulo": "Google Meu Negócio: a recepção que atende 24h",
       "data": "2026-07-22",
       "pasta": "2026-07-22-google-negocio",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -122,7 +122,8 @@
         "slide-06.png"
       ],
       "legenda": "Todo dia, alguém na sua região digita o seu tipo de médico no Google. E decide em segundos entre os dois ou três primeiros nomes.\n\nSe o seu perfil está vazio, com categoria genérica ou sem avaliação recente, você nem entra nessa disputa. Não perde pro médico melhor. Perde pro médico que aparece.\n\nQuatro coisas decidem: categoria certa (a especialidade exata, não \"médico\"), avaliações recentes, fotos reais do consultório, e horário e telefone corretos.\n\nO perfil no Google é a sua recepção, e ela atende 24 horas. Vale conferir como está a sua agora.\n\nSalva esse. E manda pra um colega que tem um perfil abandonado.",
-      "instagram_media_id": null
+      "instagram_media_id": "18143387149538086",
+      "publicado_em": "2026-07-22T10:51:20.657Z"
     },
     {
       "id": "cfm-antes-depois",
