@@ -150,12 +150,15 @@
       "titulo": "A sala mais bonita não vale nada vazia (post único)",
       "data": "2026-07-27",
       "pasta": "2026-07-27-sala-vazia",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png"
       ],
       "legenda": "A sala de espera mais bonita da cidade não vale nada vazia.\n\nConsultório cheio não é sobre ser o melhor médico. É sobre ser o que a pessoa encontra na hora que precisa. Competência não preenche agenda sozinha.\n\nÉ pra isso que a gente existe: fazer o bom médico ser encontrado.\n\nSegue a gente se você quer a sala cheia pelo motivo certo.",
-      "instagram_media_id": null
+      "instagram_media_id": "18120259525842262",
+      "publicado_em": "2026-07-27T10:51:09.572Z",
+      "facebook_post_id": "1127575313776177_122125736163352929",
+      "facebook_em": "2026-07-27T10:51:17.858Z"
     },
     {
       "id": "secretaria-funil",
