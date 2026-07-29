@@ -165,7 +165,7 @@
       "titulo": "A secretária é o seu funil",
       "data": "2026-07-29",
       "pasta": "2026-07-29-secretaria",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -175,7 +175,10 @@
         "slide-06.png"
       ],
       "legenda": "Você paga pra o paciente chegar. Aí ele chega, manda mensagem, e quem responde decide se aquilo vira consulta ou não.\n\nEsse é o gargalo mais barato de arrumar e o mais ignorado do consultório.\n\nO paciente costuma falar com dois ou três lugares ao mesmo tempo. Quem responde primeiro, e melhor, quase sempre leva. Mesmo cobrando mais caro.\n\nQuatro coisas mudam o jogo: responder rápido nem que seja um \"já te respondo com calma\", nunca responder só \"não\", perguntar antes de informar, e oferecer dois horários em vez de deixar pergunta aberta.\n\nNão adianta encher o topo do funil se o fundo está furado.\n\nSalva esse. E se não é você quem responde o WhatsApp, manda pra quem responde.",
-      "instagram_media_id": null
+      "instagram_media_id": "18110899237797537",
+      "publicado_em": "2026-07-29T10:51:32.967Z",
+      "facebook_post_id": "1127575313776177_122126208531352929",
+      "facebook_em": "2026-07-29T10:51:45.496Z"
     },
     {
       "id": "medico-bom-menos-conhecido",
