@@ -1,21 +1,21 @@
 name: Publicar no Instagram
 
 on:
-  schedule:
-    # Publica só se houver post aprovado com data igual a hoje (a data de cada
-    # post no fila.json manda no calendário).
-    #
-    # ESCADA DE TENTATIVAS. O agendador do GitHub é "melhor esforço": ele atrasa
-    # e às vezes DESCARTA a execução em silêncio (aconteceu em 16/07/2026, com
-    # cron na hora cheia). Como o script pula post que já está 'publicado', várias
-    # tentativas por dia são inofensivas e dão redundância: a primeira que o
-    # GitHub honrar publica, as demais saem sem fazer nada.
-    #
-    # Minutos quebrados de propósito — a hora cheia é o horário mais congestionado.
-    - cron: '53 10 * * *'   # 07:53 BRT · alvo principal (post cai ~8h)
-    - cron: '23 11 * * *'   # 08:23 BRT · rede 1
-    - cron: '53 11 * * *'   # 08:53 BRT · rede 2
-    - cron: '53 12 * * *'   # 09:53 BRT · rede 3 (última chance do dia)
+  # Quem manda a hora é o AGENDADOR NO CLOUDFLARE (publicacao/agendador/), que
+  # chama este workflow por workflow_dispatch às 07:50 BRT, com uma segunda
+  # tentativa às 09:40. O fila.json continua decidindo o que sai: só post
+  # 'aprovado' com a data de hoje vai ao ar.
+  #
+  # A ESCADA DE 4 CRONS FOI REMOVIDA EM 06/08/2026 — não recolocar.
+  # Ela existia como rede de segurança, mas nunca segurou nada: o cron do GitHub
+  # é "melhor esforço" e descartou as execuções em 16/07, em 17/07 (nos dois dias
+  # o post só saiu no disparo manual) e de novo em 06/08, quando o GitHub
+  # cancelou as tentativas do dia horas depois do horário e mandou 3 e-mails de
+  # falha por execuções que nunca rodaram. Rede que só dá alarme falso não é rede.
+  #
+  # Consequência: o Worker do Cloudflare virou ponto único. Se o post parar de
+  # sair, o suspeito nº 1 é o TOKEN DO GITHUB TER VENCIDO — ele falha calado.
+  # O passo a passo pra renovar está em publicacao/agendador/README.md.
   workflow_dispatch:
     inputs:
       data:
