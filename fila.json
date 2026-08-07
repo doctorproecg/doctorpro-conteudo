@@ -237,7 +237,7 @@
       "titulo": "O paciente que confirma e não aparece",
       "data": "2026-08-07",
       "pasta": "2026-08-07-no-show",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -247,7 +247,10 @@
         "slide-06.png"
       ],
       "legenda": "Ele confirmou. E não apareceu.\n\nO horário estava vendido, a sala reservada, e ninguém sentou. O buraco mais caro da agenda não é o horário vago. É o que você achou que estava cheio.\n\nCada falta custa dobrado: você perde a consulta que não aconteceu e o paciente que ficou de fora porque a agenda parecia lotada.\n\nO que reduz de verdade não é multa. São três lembretes: na hora que marcou, na véspera pedindo resposta (\"confirma ou prefere remarcar?\"), e nas horas antes com localização e onde estacionar.\n\nFalta quase nunca é descaso. É atrito. Esqueceu, não sabia chegar, teve vergonha de desmarcar. Quase tudo isso se resolve com uma mensagem na hora certa.\n\nSalva esse. E manda pra quem cuida da sua agenda.",
-      "instagram_media_id": null
+      "instagram_media_id": "18206791474320759",
+      "publicado_em": "2026-08-07T10:51:13.118Z",
+      "facebook_post_id": "1127575313776177_122128519017352929",
+      "facebook_em": "2026-08-07T10:51:22.530Z"
     }
   ]
 }
