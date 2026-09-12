@@ -274,6 +274,42 @@
       "publicado_em": "2026-08-07T10:51:13.118Z",
       "facebook_post_id": "1127575313776177_122128519017352929",
       "facebook_em": "2026-08-07T10:51:22.530Z"
+    },
+    {
+      "id": "linguagem-paciente",
+      "titulo": "O paciente não procura o nome do procedimento",
+      "data": "2026-09-15",
+      "pasta": "2026-09-15-linguagem-paciente",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
+      "legenda": "O paciente não começa pela especialidade. Começa pelo que está atrapalhando o dia.\n\nIsso não pede conteúdo raso, nem promessa. Pede uma tradução honesta: o que aquela pessoa pode estar sentindo, quando precisa procurar avaliação e quem pode ajudar.\n\nQuando a linguagem do conteúdo encontra a linguagem da busca, o perfil deixa de falar sozinho.\n\nSalve este post antes de definir o próximo tema.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "pergunta-agenda",
+      "titulo": "O post que funciona começa antes do Canva",
+      "data": "2026-09-18",
+      "pasta": "2026-09-18-pergunta-agenda",
+      "status": "aprovado",
+      "slides": ["slide-01.png"],
+      "legenda": "Conteúdo não começa no Canva.\n\nComeça na pergunta que chegou no WhatsApp, no horário vazio que ninguém entendeu, na conversa que parou no meio.\n\nAntes de procurar uma pauta, olhe para o que o paciente já está tentando resolver. O design entra depois, para dar forma a uma resposta que realmente faz falta.\n\nSalve para lembrar disso antes do próximo calendário editorial.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "origem-consulta",
+      "titulo": "Você sabe de onde veio a última consulta?",
+      "data": "2026-09-22",
+      "pasta": "2026-09-22-origem-consulta",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
+      "legenda": "O painel mostra cliques. A agenda mostra consultas. Entre os dois, há uma pergunta que costuma ficar esquecida: como essa pessoa conheceu o consultório?\n\nInstagram, Google, indicação e retorno podem aparecer na mesma conversa. Sem registro, fica impossível entender o que trouxe resultado de verdade.\n\nComece simples: pergunte, registre com categorias fixas e compare conversas com consultas agendadas.\n\nCompartilhe com quem cuida da agenda.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "foto-consultorio",
+      "titulo": "Foto de consultório não é enfeite",
+      "data": "2026-09-25",
+      "pasta": "2026-09-25-foto-consultorio",
+      "status": "aprovado",
+      "slides": ["slide-01.png"],
+      "legenda": "Antes de marcar, a pessoa tenta imaginar como será chegar ali.\n\nUma foto real do consultório não precisa vender cenário. Ela reduz uma dúvida silenciosa: onde vou ser atendido? Como é esse lugar? Isso parece cuidadoso?\n\nImagem de banco, vazia e genérica, não responde a essas perguntas. Foto verdadeira responde um pouco antes da primeira mensagem.\n\nSiga @doctorpro.marketing para olhar marketing médico como parte da jornada do paciente."
     }
   ]
 }
