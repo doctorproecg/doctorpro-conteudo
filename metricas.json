@@ -1,0 +1,261 @@
+{
+  "atualizado_em": "2026-09-14T13:04:50.043Z",
+  "total_posts": 14,
+  "posts": [
+    {
+      "id": "quem-faz",
+      "titulo": "Eu não sou médico. Mas eu só atendo médico.",
+      "data_publicacao": "2026-08-14T19:28:32.307Z",
+      "instagram_media_id": "18026436161893453",
+      "permalink": "https://www.instagram.com/p/DcCEIpKDwRy/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 18,
+      "comentarios": 5,
+      "valores": {
+        "views": 662,
+        "reach": 373,
+        "total_interactions": 27,
+        "likes": 18,
+        "comments": 5,
+        "saved": 1,
+        "shares": 3
+      }
+    },
+    {
+      "id": "selfie-cfm",
+      "titulo": "Selfie de médico era proibido. Hoje não é.",
+      "data_publicacao": "2026-08-17T10:51:06.704Z",
+      "instagram_media_id": "18119865511846419",
+      "permalink": "https://www.instagram.com/p/DcI3TWBln2o/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 12,
+      "comentarios": 0,
+      "valores": {
+        "views": 119,
+        "reach": 36,
+        "total_interactions": 12,
+        "likes": 12,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "cfm-ia-fiscaliza",
+      "titulo": "O CFM agora tem uma IA lendo o seu perfil",
+      "data_publicacao": "2026-07-17T12:09:11.648Z",
+      "instagram_media_id": "17990784053825977",
+      "permalink": "https://www.instagram.com/p/Da5LmHKFssm/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 6,
+      "comentarios": 0,
+      "valores": {
+        "views": 32,
+        "reach": 11,
+        "total_interactions": 6,
+        "likes": 6,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "c1-ia-busca",
+      "titulo": "O paciente perguntou pra IA, não pro Google",
+      "data_publicacao": "2026-07-16T12:59:00.372Z",
+      "instagram_media_id": "18400034581089978",
+      "permalink": "https://www.instagram.com/p/Da2sf9nEo2P/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 7,
+      "comentarios": 0,
+      "valores": {
+        "views": 53,
+        "reach": 17,
+        "total_interactions": 7,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "g1-quanto-custa",
+      "titulo": "\"Quanto custa a consulta?\" — a resposta que perde o paciente",
+      "data_publicacao": "2026-07-15T16:12:53.389Z",
+      "instagram_media_id": "17876747532512031",
+      "permalink": "https://www.instagram.com/p/Da0d6A6DHOQ/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 7,
+      "comentarios": 0,
+      "valores": {
+        "views": 39,
+        "reach": 19,
+        "total_interactions": 7,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "p2-recusa-cliente",
+      "titulo": "A gente recusa cliente",
+      "data_publicacao": "2026-07-18T10:51:33.657Z",
+      "instagram_media_id": "18101300816598874",
+      "permalink": "https://www.instagram.com/p/Da7ngy4GWI6/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 7,
+      "comentarios": 0,
+      "valores": {
+        "views": 23,
+        "reach": 12,
+        "total_interactions": 7,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "metodo-ecg-v2",
+      "titulo": "O ECG do seu marketing (Método ECG)",
+      "data_publicacao": "2026-07-20T10:51:44.691Z",
+      "instagram_media_id": "18243253618308227",
+      "permalink": "https://www.instagram.com/p/DbAxHh0GgdZ/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 6,
+      "comentarios": 0,
+      "valores": {
+        "views": 32,
+        "reach": 12,
+        "total_interactions": 6,
+        "likes": 6,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "google-negocio-v2",
+      "titulo": "Google Meu Negócio: a recepção que atende 24h",
+      "data_publicacao": "2026-07-22T10:51:20.657Z",
+      "instagram_media_id": "18143387149538086",
+      "permalink": "https://www.instagram.com/p/DbF6qGcEuXh/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 7,
+      "comentarios": 0,
+      "valores": {
+        "views": 26,
+        "reach": 11,
+        "total_interactions": 7,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "cfm-antes-depois",
+      "titulo": "CFM: antes e depois voltou a ser permitido",
+      "data_publicacao": "2026-07-24T10:51:31.053Z",
+      "instagram_media_id": "18542352004072141",
+      "permalink": "https://www.instagram.com/p/DbLESANmjRh/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 6,
+      "comentarios": 0,
+      "valores": {
+        "views": 30,
+        "reach": 13,
+        "total_interactions": 6,
+        "likes": 6,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "sala-vazia",
+      "titulo": "A sala mais bonita não vale nada vazia (post único)",
+      "data_publicacao": "2026-07-27T10:51:09.572Z",
+      "instagram_media_id": "18120259525842262",
+      "valores": {},
+      "aviso": "Unsupported get request. Object with ID '18120259525842262' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
+    },
+    {
+      "id": "secretaria-funil",
+      "titulo": "A secretária é o seu funil",
+      "data_publicacao": "2026-07-29T10:51:32.967Z",
+      "instagram_media_id": "18110899237797537",
+      "permalink": "https://www.instagram.com/p/DbX8P4OHS1X/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 6,
+      "comentarios": 0,
+      "valores": {
+        "views": 37,
+        "reach": 13,
+        "total_interactions": 6,
+        "likes": 6,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "avaliacoes-cfm",
+      "titulo": "Como pedir avaliação sem infringir o CFM",
+      "data_publicacao": "2026-08-03T10:51:07.756Z",
+      "instagram_media_id": "18112859140766912",
+      "permalink": "https://www.instagram.com/p/Dbk0Lr7kkHh/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 7,
+      "comentarios": 0,
+      "valores": {
+        "views": 30,
+        "reach": 12,
+        "total_interactions": 7,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "reels-nao-precisa",
+      "titulo": "Você não precisa dançar no Reels",
+      "data_publicacao": "2026-08-05T10:51:03.058Z",
+      "instagram_media_id": "18373516882229914",
+      "permalink": "https://www.instagram.com/p/Dbp9xHuja8N/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 8,
+      "comentarios": 0,
+      "valores": {
+        "views": 44,
+        "reach": 15,
+        "total_interactions": 8,
+        "likes": 8,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "no-show",
+      "titulo": "O paciente que confirma e não aparece",
+      "data_publicacao": "2026-08-07T10:51:13.118Z",
+      "instagram_media_id": "18206791474320759",
+      "permalink": "https://www.instagram.com/p/DbvHX6HD0Ic/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 8,
+      "comentarios": 0,
+      "valores": {
+        "views": 83,
+        "reach": 34,
+        "total_interactions": 8,
+        "likes": 8,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    }
+  ]
+}
