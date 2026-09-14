@@ -1,0 +1,30 @@
+name: Coletar métricas do Instagram
+
+on:
+  workflow_dispatch:
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Ler métricas pela API do Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: node coletar-metricas.js
+      - name: Registrar leitura
+        run: |
+          if git diff --quiet metricas.json; then
+            echo "Sem alteração nas métricas."
+            exit 0
+          fi
+          git config user.name 'doctor-pro-bot'
+          git config user.email 'bot@doctorpro.local'
+          git add metricas.json
+          git commit -m "atualiza métricas do Instagram"
+          git push
