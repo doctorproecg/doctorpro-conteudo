@@ -19,12 +19,12 @@ jobs:
         run: node coletar-metricas.js
       - name: Registrar leitura
         run: |
-          if git diff --quiet metricas.json; then
+          git add metricas.json
+          if git diff --cached --quiet; then
             echo "Sem alteração nas métricas."
             exit 0
           fi
           git config user.name 'doctor-pro-bot'
           git config user.email 'bot@doctorpro.local'
-          git add metricas.json
           git commit -m "atualiza métricas do Instagram"
           git push
