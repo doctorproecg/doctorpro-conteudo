@@ -47,22 +47,34 @@ async function insights(id) {
   const publicados = fila.filter(p => p.status === 'publicado' && p.instagram_media_id);
   const posts = [];
   for (const post of publicados) {
-    const basico = await graph(post.instagram_media_id, {
-      fields: 'id,permalink,media_type,media_product_type,timestamp,like_count,comments_count'
-    });
-    const leitura = await insights(post.instagram_media_id);
-    posts.push({
-      id: post.id,
-      titulo: post.titulo,
-      data_publicacao: post.publicado_em,
-      instagram_media_id: post.instagram_media_id,
-      permalink: basico.permalink || null,
-      tipo: basico.media_type || null,
-      curtidas: basico.like_count ?? null,
-      comentarios: basico.comments_count ?? null,
-      ...leitura
-    });
-    console.log(`Métricas lidas: ${post.id}`);
+    try {
+      const basico = await graph(post.instagram_media_id, {
+        fields: 'id,permalink,media_type,media_product_type,timestamp,like_count,comments_count'
+      });
+      const leitura = await insights(post.instagram_media_id);
+      posts.push({
+        id: post.id,
+        titulo: post.titulo,
+        data_publicacao: post.publicado_em,
+        instagram_media_id: post.instagram_media_id,
+        permalink: basico.permalink || null,
+        tipo: basico.media_type || null,
+        curtidas: basico.like_count ?? null,
+        comentarios: basico.comments_count ?? null,
+        ...leitura
+      });
+      console.log(`Métricas lidas: ${post.id}`);
+    } catch (erro) {
+      posts.push({
+        id: post.id,
+        titulo: post.titulo,
+        data_publicacao: post.publicado_em,
+        instagram_media_id: post.instagram_media_id,
+        valores: {},
+        aviso: erro.message
+      });
+      console.warn(`Métricas indisponíveis: ${post.id}`);
+    }
   }
   fs.writeFileSync(destino, JSON.stringify({
     atualizado_em: new Date().toISOString(),
