@@ -310,7 +310,7 @@
     {
       "id": "origem-consulta",
       "titulo": "A consulta é decidida antes do WhatsApp",
-      "data": "2026-09-17",
+      "data": "2026-09-22",
       "pasta": "2026-09-17-origem-consulta-v3",
       "status": "aprovado",
       "slides": [
@@ -327,7 +327,7 @@
     {
       "id": "mensagens-consultas",
       "titulo": "Quantas pessoas chamaram? Quantas realmente marcaram?",
-      "data": "2026-09-22",
+      "data": "2026-09-29",
       "pasta": "2026-09-22-mensagens-consultas",
       "status": "aprovado",
       "slides": [
@@ -354,7 +354,7 @@
     {
       "id": "marketing-agenda",
       "titulo": "Marketing não começa com agenda vazia",
-      "data": "2026-09-24",
+      "data": "2026-10-06",
       "pasta": "2026-09-24-marketing-agenda",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
@@ -363,7 +363,7 @@
     {
       "id": "site-respostas",
       "titulo": "Antes de chamar, o paciente pesquisa.",
-      "data": "2026-09-29",
+      "data": "2026-10-13",
       "pasta": "2026-09-29-site-respostas",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
