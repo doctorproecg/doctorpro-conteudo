@@ -359,6 +359,15 @@
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
       "legenda": "Agenda vazia costuma fazer o marketing virar emergência. A clínica liga uma campanha, publica mais, cobra resposta rápida e espera que a próxima semana resolva o mês.\n\nO problema é que, quando tudo começa no aperto, ninguém sabe qual canal trazer de volta, para qual público e com qual conversa. A agenda cheia de hoje também não explica de onde virá a procura de amanhã.\n\nSalve para levar essa pergunta à próxima reunião de planejamento.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "site-respostas",
+      "titulo": "Antes de chamar, o paciente pesquisa.",
+      "data": "2026-09-29",
+      "pasta": "2026-09-29-site-respostas",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing"
     }
   ]
 }
