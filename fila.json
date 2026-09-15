@@ -350,6 +350,15 @@
         "slide-01.png"
       ],
       "legenda": "Antes de marcar, a pessoa tenta imaginar como será chegar ali.\n\nUma foto real do consultório não precisa vender cenário. Ela reduz uma dúvida silenciosa: onde vou ser atendido? Como é esse lugar? Isso parece cuidadoso?\n\nImagem de banco, vazia e genérica, não responde a essas perguntas. Foto verdadeira responde um pouco antes da primeira mensagem.\n\nSiga @doctorpro.marketing para olhar marketing médico como parte da jornada do paciente."
+    },
+    {
+      "id": "marketing-agenda",
+      "titulo": "Marketing não começa com agenda vazia",
+      "data": "2026-09-24",
+      "pasta": "2026-09-24-marketing-agenda",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Agenda vazia costuma fazer o marketing virar emergência. A clínica liga uma campanha, publica mais, cobra resposta rápida e espera que a próxima semana resolva o mês.\n\nO problema é que, quando tudo começa no aperto, ninguém sabe qual canal trazer de volta, para qual público e com qual conversa. A agenda cheia de hoje também não explica de onde virá a procura de amanhã.\n\nSalve para levar essa pergunta à próxima reunião de planejamento.\n\n@doctorpro.marketing"
     }
   ]
 }
