@@ -280,9 +280,21 @@
       "titulo": "O paciente não procura uma aula",
       "data": "2026-09-15",
       "pasta": "2026-09-15-linguagem-paciente-v3",
-      "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
-      "legenda": "O médico pensa no diagnóstico. Quem está procurando ainda está tentando descrever o que sente.\n\nPor isso, um conteúdo tecnicamente correto pode passar reto por quem precisava encontrá-lo. Não falta conhecimento. Falta uma porta de entrada.\n\nAntes de escrever o próximo post, escute a pergunta como ela chega na recepção. Depois organize a resposta: o que a pessoa percebe, quando vale investigar e como você pode orientar uma avaliação.\n\nGuarde este roteiro para a próxima reunião de pauta e siga @doctorpro.marketing para olhar o marketing do consultório com mais precisão."
+      "status": "publicado",
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png",
+        "slide-07.png"
+      ],
+      "legenda": "O médico pensa no diagnóstico. Quem está procurando ainda está tentando descrever o que sente.\n\nPor isso, um conteúdo tecnicamente correto pode passar reto por quem precisava encontrá-lo. Não falta conhecimento. Falta uma porta de entrada.\n\nAntes de escrever o próximo post, escute a pergunta como ela chega na recepção. Depois organize a resposta: o que a pessoa percebe, quando vale investigar e como você pode orientar uma avaliação.\n\nGuarde este roteiro para a próxima reunião de pauta e siga @doctorpro.marketing para olhar o marketing do consultório com mais precisão.",
+      "instagram_media_id": "17928731214167401",
+      "publicado_em": "2026-09-15T10:51:16.215Z",
+      "facebook_post_id": "1127575313776177_122138758653352929",
+      "facebook_em": "2026-09-15T10:51:26.211Z"
     },
     {
       "id": "pergunta-agenda",
@@ -290,7 +302,9 @@
       "data": "2026-09-18",
       "pasta": "2026-09-18-pergunta-agenda",
       "status": "rascunho",
-      "slides": ["slide-01.png"],
+      "slides": [
+        "slide-01.png"
+      ],
       "legenda": "Conteúdo não começa no Canva.\n\nComeça na pergunta que chegou no WhatsApp, no horário vazio que ninguém entendeu, na conversa que parou no meio.\n\nAntes de procurar uma pauta, olhe para o que o paciente já está tentando resolver. O design entra depois, para dar forma a uma resposta que realmente faz falta.\n\nSalve para lembrar disso antes do próximo calendário editorial.\n\n@doctorpro.marketing"
     },
     {
@@ -299,7 +313,15 @@
       "data": "2026-09-17",
       "pasta": "2026-09-17-origem-consulta-v3",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png",
+        "slide-07.png"
+      ],
       "legenda": "O último clique parece uma resposta fácil. Quase nunca é a resposta inteira.\n\nUma pessoa pode descobrir o consultório no Instagram, conferir o Google, olhar fotos, ler avaliações e só então chamar no WhatsApp. Se a clínica registra só uma dessas etapas, atribui a consulta a quem apareceu por último.\n\nComece por duas perguntas na recepção: como ela conheceu a clínica e o que fez decidir marcar. A resposta mostra onde manter esforço e onde existe atrito.\n\nSalve para levar à próxima reunião com a recepção e siga @doctorpro.marketing para acompanhar o Método ECG na prática."
     },
     {
@@ -308,7 +330,14 @@
       "data": "2026-09-22",
       "pasta": "2026-09-22-mensagens-consultas",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Na próxima reunião com a agência, faça três perguntas:\n\nQuantas pessoas chamaram?\nQuantas marcaram?\nQuantas compareceram?\n\nNão é preciso decorar termo de marketing para acompanhar o que está acontecendo. Essas três respostas mostram se o ponto a investigar está no anúncio, no atendimento ou na confirmação da consulta.\n\nMensagem não ocupa horário na agenda. Acompanhar esse caminho completo é o que transforma o marketing em uma conversa objetiva sobre o que acontece na clínica.\n\nSalve para pedir esse recorte no próximo acompanhamento.\n\n@doctorpro.marketing"
     },
     {
@@ -317,7 +346,9 @@
       "data": "2026-09-25",
       "pasta": "2026-09-25-foto-consultorio",
       "status": "rascunho",
-      "slides": ["slide-01.png"],
+      "slides": [
+        "slide-01.png"
+      ],
       "legenda": "Antes de marcar, a pessoa tenta imaginar como será chegar ali.\n\nUma foto real do consultório não precisa vender cenário. Ela reduz uma dúvida silenciosa: onde vou ser atendido? Como é esse lugar? Isso parece cuidadoso?\n\nImagem de banco, vazia e genérica, não responde a essas perguntas. Foto verdadeira responde um pouco antes da primeira mensagem.\n\nSiga @doctorpro.marketing para olhar marketing médico como parte da jornada do paciente."
     }
   ]
