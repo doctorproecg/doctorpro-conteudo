@@ -386,6 +386,51 @@
         "slide-06.png"
       ],
       "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "regiao-anuncio",
+      "titulo": "Perto no mapa. Longe na rotina.",
+      "data": "2026-10-20",
+      "pasta": "2026-10-20-regiao-anuncio",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "O raio do anúncio é um ponto de partida. A revisão precisa olhar também o caminho até o consultório e as regiões de onde chegam as consultas particulares.\n\nPeça um relatório por região e confira qual opção de localização foi usada. Nem toda configuração considera apenas quem está fisicamente no local.\n\nEvite ampliar ou cortar bairros só por uma impressão. Compare os contatos com os agendamentos, usando informações agrupadas.\n\nSalve para a próxima reunião com sua agência.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "foco-campanha",
+      "titulo": "Seu anúncio tenta explicar tudo?",
+      "data": "2026-10-27",
+      "pasta": "2026-10-27-foco-campanha",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Não é preciso colocar o consultório inteiro em um anúncio.\n\nUma campanha pode apresentar um atendimento e conduzir a pessoa a uma página que explique esse atendimento, com um caminho claro para marcar.\n\nIsso não significa prometer resultado clínico, diagnosticar pelo anúncio ou tratar todas as pessoas como iguais. Significa não trocar de assunto entre o anúncio e o próximo passo.\n\nAntes de discutir mais verba, revise esse percurso com a agência e a recepção.\n\nSalve para conferir sua próxima campanha.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "conteudo-conectado",
+      "titulo": "Uma dúvida. Três posts diferentes.",
+      "data": "2026-11-03",
+      "pasta": "2026-11-03-conteudo-conectado",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Uma dúvida recorrente pode render mais de um conteúdo. A diferença está na função de cada publicação.\n\nSobre a primeira consulta, por exemplo: um post explica o processo; outro mostra a preparação; um terceiro esclarece como o próximo passo é combinado.\n\nO assunto continua. A informação avança.\n\nA agência organiza a sequência, mas as informações e orientações precisam ser validadas pelo médico. Sem promessas de conduta ou resultado para todo paciente.\n\nSalve para usar na próxima pauta de conteúdo.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "endereco-atualizado",
+      "titulo": "Mudou de endereço? E os seus links?",
+      "data": "2026-11-10",
+      "pasta": "2026-11-10-endereco-atualizado",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Mudar o endereço do consultório exige mais do que publicar um aviso.\n\nO perfil no Google, o site, a bio do Instagram, os anúncios ativos e as orientações enviadas pela recepção precisam ser conferidos separadamente.\n\nInclua páginas antigas que ainda podem aparecer em buscas ou ser abertas por um link salvo.\n\nMantenha uma lista dos canais e de quem cuida de cada atualização. Ela também serve quando houver mudança de telefone ou horário.\n\nSalve para a próxima mudança do consultório.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "contexto-recepcao",
+      "titulo": "A campanha começou. A recepção sabe?",
+      "data": "2026-11-17",
+      "pasta": "2026-11-17-contexto-recepcao",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "Uma campanha nova precisa chegar à recepção antes de chegar às pessoas.\n\nEnvie um resumo com o anúncio, o link, o atendimento apresentado e as condições reais para marcar. Combine quem responde e como encaminhar dúvidas que não são de agendamento.\n\nDepois, ouça a equipe: quais perguntas continuam aparecendo? Onde a mensagem ficou incompleta?\n\nEsse retorno ajuda a agência e o consultório a revisar o caminho. Não é uma promessa de mais consultas; é uma forma de evitar que a campanha e o atendimento trabalhem com informações diferentes.\n\nCompartilhe com quem organiza a recepção do consultório.\n\n@doctorpro.marketing"
     }
   ]
 }
