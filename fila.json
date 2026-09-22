@@ -312,7 +312,7 @@
       "titulo": "A consulta é decidida antes do WhatsApp",
       "data": "2026-09-22",
       "pasta": "2026-09-17-origem-consulta-v3",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -322,7 +322,11 @@
         "slide-06.png",
         "slide-07.png"
       ],
-      "legenda": "O último clique parece uma resposta fácil. Quase nunca é a resposta inteira.\n\nUma pessoa pode descobrir o consultório no Instagram, conferir o Google, olhar fotos, ler avaliações e só então chamar no WhatsApp. Se a clínica registra só uma dessas etapas, atribui a consulta a quem apareceu por último.\n\nComece por duas perguntas na recepção: como ela conheceu a clínica e o que fez decidir marcar. A resposta mostra onde manter esforço e onde existe atrito.\n\nSalve para levar à próxima reunião com a recepção e siga @doctorpro.marketing para acompanhar o Método ECG na prática."
+      "legenda": "O último clique parece uma resposta fácil. Quase nunca é a resposta inteira.\n\nUma pessoa pode descobrir o consultório no Instagram, conferir o Google, olhar fotos, ler avaliações e só então chamar no WhatsApp. Se a clínica registra só uma dessas etapas, atribui a consulta a quem apareceu por último.\n\nComece por duas perguntas na recepção: como ela conheceu a clínica e o que fez decidir marcar. A resposta mostra onde manter esforço e onde existe atrito.\n\nSalve para levar à próxima reunião com a recepção e siga @doctorpro.marketing para acompanhar o Método ECG na prática.",
+      "instagram_media_id": "18115614241963981",
+      "publicado_em": "2026-09-22T10:51:36.517Z",
+      "facebook_post_id": "1127575313776177_122141094309352929",
+      "facebook_em": "2026-09-22T10:51:51.270Z"
     },
     {
       "id": "mensagens-consultas",
@@ -357,7 +361,14 @@
       "data": "2026-10-06",
       "pasta": "2026-09-24-marketing-agenda",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Agenda vazia costuma fazer o marketing virar emergência. A clínica liga uma campanha, publica mais, cobra resposta rápida e espera que a próxima semana resolva o mês.\n\nO problema é que, quando tudo começa no aperto, ninguém sabe qual canal trazer de volta, para qual público e com qual conversa. A agenda cheia de hoje também não explica de onde virá a procura de amanhã.\n\nSalve para levar essa pergunta à próxima reunião de planejamento.\n\n@doctorpro.marketing"
     },
     {
@@ -366,7 +377,14 @@
       "data": "2026-10-13",
       "pasta": "2026-09-29-site-respostas",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing"
     }
   ]
