@@ -331,7 +331,7 @@
     {
       "id": "mensagens-consultas",
       "titulo": "Quantas pessoas chamaram? Quantas realmente marcaram?",
-      "data": "2026-09-29",
+      "data": "2026-10-06",
       "pasta": "2026-09-22-mensagens-consultas",
       "status": "aprovado",
       "slides": [
@@ -358,7 +358,7 @@
     {
       "id": "marketing-agenda",
       "titulo": "Marketing não começa com agenda vazia",
-      "data": "2026-10-06",
+      "data": "2026-11-10",
       "pasta": "2026-09-24-marketing-agenda",
       "status": "aprovado",
       "slides": [
@@ -374,7 +374,7 @@
     {
       "id": "site-respostas",
       "titulo": "Antes de chamar, o paciente pesquisa.",
-      "data": "2026-10-13",
+      "data": "2026-09-29",
       "pasta": "2026-09-29-site-respostas",
       "status": "aprovado",
       "slides": [
@@ -399,7 +399,7 @@
     {
       "id": "foco-campanha",
       "titulo": "Seu anúncio tenta explicar tudo?",
-      "data": "2026-10-27",
+      "data": "2026-11-17",
       "pasta": "2026-10-27-foco-campanha",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
@@ -408,7 +408,7 @@
     {
       "id": "conteudo-conectado",
       "titulo": "Uma dúvida. Três posts diferentes.",
-      "data": "2026-11-03",
+      "data": "2026-10-13",
       "pasta": "2026-11-03-conteudo-conectado",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
@@ -417,7 +417,7 @@
     {
       "id": "endereco-atualizado",
       "titulo": "Mudou de endereço? E os seus links?",
-      "data": "2026-11-10",
+      "data": "2026-11-03",
       "pasta": "2026-11-10-endereco-atualizado",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
@@ -426,7 +426,7 @@
     {
       "id": "contexto-recepcao",
       "titulo": "A campanha começou. A recepção sabe?",
-      "data": "2026-11-17",
+      "data": "2026-10-27",
       "pasta": "2026-11-17-contexto-recepcao",
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
