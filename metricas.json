@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-14T13:04:50.043Z",
-  "total_posts": 14,
+  "atualizado_em": "2026-09-22T14:58:58.421Z",
+  "total_posts": 16,
   "posts": [
     {
       "id": "quem-faz",
@@ -12,7 +12,7 @@
       "curtidas": 18,
       "comentarios": 5,
       "valores": {
-        "views": 662,
+        "views": 663,
         "reach": 373,
         "total_interactions": 27,
         "likes": 18,
@@ -69,8 +69,8 @@
       "curtidas": 7,
       "comentarios": 0,
       "valores": {
-        "views": 53,
-        "reach": 17,
+        "views": 55,
+        "reach": 18,
         "total_interactions": 7,
         "likes": 7,
         "comments": 0,
@@ -88,8 +88,8 @@
       "curtidas": 7,
       "comentarios": 0,
       "valores": {
-        "views": 39,
-        "reach": 19,
+        "views": 41,
+        "reach": 20,
         "total_interactions": 7,
         "likes": 7,
         "comments": 0,
@@ -252,6 +252,44 @@
         "reach": 34,
         "total_interactions": 8,
         "likes": 8,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "linguagem-paciente",
+      "titulo": "O paciente não procura uma aula",
+      "data_publicacao": "2026-09-15T10:51:16.215Z",
+      "instagram_media_id": "17928731214167401",
+      "permalink": "https://www.instagram.com/p/DdTiYcZlb79/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 8,
+      "comentarios": 1,
+      "valores": {
+        "views": 48,
+        "reach": 17,
+        "total_interactions": 9,
+        "likes": 8,
+        "comments": 1,
+        "saved": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "origem-consulta",
+      "titulo": "A consulta é decidida antes do WhatsApp",
+      "data_publicacao": "2026-09-22T10:51:36.517Z",
+      "instagram_media_id": "18115614241963981",
+      "permalink": "https://www.instagram.com/p/Ddlj-ctoMHX/",
+      "tipo": "CAROUSEL_ALBUM",
+      "curtidas": 1,
+      "comentarios": 0,
+      "valores": {
+        "views": 28,
+        "reach": 7,
+        "total_interactions": 1,
+        "likes": 1,
         "comments": 0,
         "saved": 0,
         "shares": 0
