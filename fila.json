@@ -494,6 +494,15 @@
       "status": "aprovado",
       "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
       "legenda": "Uma resposta automática pode confirmar que a mensagem chegou. Ela não garante que a conversa será retomada no dia seguinte.\n\nDefina quem abre a fila fora do horário, em que ordem as mensagens serão respondidas e o que precisa ser registrado depois. Separe noite, madrugada, fins de semana e horário comercial.\n\nAssim, o consultório descobre se o atraso está no atendimento inteiro ou concentrado em um turno específico.\n\nSalve e acompanhe por uma semana.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "ia-consulta-cfm",
+      "titulo": "A IA entrou na consulta. O paciente sabe?",
+      "data": "2027-01-12",
+      "pasta": "2027-01-12-ia-consulta-cfm",
+      "status": "aprovado",
+      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "legenda": "A IA já entrou na rotina de muitos médicos. A discussão não é mais apenas usar ou não usar. É saber se a ferramenta entra como apoio, se o paciente entende o que acontece com seus dados e se o médico continua revisando cada saída.\n\nA Resolução CFM 2.454/2026 está em vigor. Ela permite o uso de IA na prática médica, mas mantém a decisão final com o médico, exige comunicação clara ao paciente, respeito à recusa informada, segurança dos dados e registro no prontuário quando a IA apoiar a decisão médica.\n\nAntes de contratar uma ferramenta, peça respostas objetivas sobre finalidade, dados coletados, armazenamento, possibilidade de recusa e revisão humana.\n\nSalve para revisar com a equipe.\n\nEste conteúdo é informativo e não substitui orientação jurídica ou do CRM.\n\n@doctorpro.marketing"
     }
   ]
 }
