@@ -376,7 +376,7 @@
       "titulo": "Antes de chamar, o paciente pesquisa.",
       "data": "2026-09-29",
       "pasta": "2026-09-29-site-respostas-v2",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -389,7 +389,9 @@
       "instagram_media_id_removido": "17862236544695486",
       "republicacao_motivo": "Post apagado pela usuária após identificar fotografia repetida da publicação anterior; imagens 1 e 3 substituídas e acervo validado por SHA-256.",
       "facebook_post_id": "1127575313776177_122143823805352929",
-      "facebook_em": "2026-09-29T10:52:37.696Z"
+      "facebook_em": "2026-09-29T10:52:37.696Z",
+      "instagram_media_id": "18395593723204266",
+      "publicado_em": "2026-09-29T12:39:15.022Z"
     },
     {
       "id": "regiao-anuncio",
