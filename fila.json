@@ -375,8 +375,8 @@
       "id": "site-respostas",
       "titulo": "Antes de chamar, o paciente pesquisa.",
       "data": "2026-09-29",
-      "pasta": "2026-09-29-site-respostas",
-      "status": "publicado",
+      "pasta": "2026-09-29-site-respostas-v2",
+      "status": "aprovado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -386,8 +386,8 @@
         "slide-06.png"
       ],
       "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing",
-      "instagram_media_id": "17862236544695486",
-      "publicado_em": "2026-09-29T10:52:16.673Z",
+      "instagram_media_id_removido": "17862236544695486",
+      "republicacao_motivo": "Post apagado pela usuária após identificar fotografia repetida da publicação anterior; imagens 1 e 3 substituídas e acervo validado por SHA-256.",
       "facebook_post_id": "1127575313776177_122143823805352929",
       "facebook_em": "2026-09-29T10:52:37.696Z"
     },

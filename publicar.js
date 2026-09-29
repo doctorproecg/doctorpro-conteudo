@@ -225,7 +225,7 @@ console.log(`\nInstagram publicado. media_id ${mediaId}`);
 // publicado. Se a Página falhar (token sem pages_manage_posts, por exemplo),
 // registramos o motivo e seguimos — não dá pra "despublicar" o Instagram, e o
 // post não pode voltar pra fila e sair duplicado amanhã.
-if (fbPageId) {
+if (fbPageId && !post.facebook_post_id) {
   try {
     const fbId = await publicarNoFacebook(post);
     post.facebook_post_id = fbId;
@@ -236,6 +236,8 @@ if (fbPageId) {
     console.error(`\n⚠️  Instagram saiu, mas o Facebook falhou: ${e.message}`);
     console.error('   O post do Instagram está no ar. Corrija a Página e publique lá na mão, ou ajuste o token.');
   }
+} else if (post.facebook_post_id) {
+  console.log(`Facebook já publicado (${post.facebook_post_id}) — preservando o post existente e evitando duplicação.`);
 } else {
   console.log('FB_PAGE_ID não definido — pulando o Facebook (só Instagram).');
 }
