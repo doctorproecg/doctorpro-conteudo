@@ -376,6 +376,26 @@
       "titulo": "Antes de chamar, o paciente pesquisa.",
       "data": "2026-09-29",
       "pasta": "2026-09-29-site-respostas",
+      "status": "publicado",
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
+      "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing",
+      "instagram_media_id": "17862236544695486",
+      "publicado_em": "2026-09-29T10:52:16.673Z",
+      "facebook_post_id": "1127575313776177_122143823805352929",
+      "facebook_em": "2026-09-29T10:52:37.696Z"
+    },
+    {
+      "id": "regiao-anuncio",
+      "titulo": "Perto no mapa. Longe na rotina.",
+      "data": "2026-10-20",
+      "pasta": "2026-10-20-regiao-anuncio",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
@@ -385,15 +405,6 @@
         "slide-05.png",
         "slide-06.png"
       ],
-      "legenda": "Um site não precisa contar toda a história da clínica. Precisa deixar a pessoa segura para dar o próximo passo.\n\nQuando informações básicas ficam escondidas, a recepção recebe conversas mais longas e o paciente chega com mais dúvida do que precisava. O site bom não substitui o atendimento. Ele prepara o atendimento.\n\nSalve para revisar o seu com calma depois.\n\n@doctorpro.marketing"
-    },
-    {
-      "id": "regiao-anuncio",
-      "titulo": "Perto no mapa. Longe na rotina.",
-      "data": "2026-10-20",
-      "pasta": "2026-10-20-regiao-anuncio",
-      "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
       "legenda": "O raio do anúncio é um ponto de partida. A revisão precisa olhar também o caminho até o consultório e as regiões de onde chegam as consultas particulares.\n\nPeça um relatório por região e confira qual opção de localização foi usada. Nem toda configuração considera apenas quem está fisicamente no local.\n\nEvite ampliar ou cortar bairros só por uma impressão. Compare os contatos com os agendamentos, usando informações agrupadas.\n\nSalve para a próxima reunião com sua agência.\n\n@doctorpro.marketing"
     },
     {
@@ -402,7 +413,14 @@
       "data": "2026-11-17",
       "pasta": "2026-10-27-foco-campanha",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Não é preciso colocar o consultório inteiro em um anúncio.\n\nUma campanha pode apresentar um atendimento e conduzir a pessoa a uma página que explique esse atendimento, com um caminho claro para marcar.\n\nIsso não significa prometer resultado clínico, diagnosticar pelo anúncio ou tratar todas as pessoas como iguais. Significa não trocar de assunto entre o anúncio e o próximo passo.\n\nAntes de discutir mais verba, revise esse percurso com a agência e a recepção.\n\nSalve para conferir sua próxima campanha.\n\n@doctorpro.marketing"
     },
     {
@@ -411,7 +429,14 @@
       "data": "2026-10-13",
       "pasta": "2026-11-03-conteudo-conectado",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Uma dúvida recorrente pode render mais de um conteúdo. A diferença está na função de cada publicação.\n\nSobre a primeira consulta, por exemplo: um post explica o processo; outro mostra a preparação; um terceiro esclarece como o próximo passo é combinado.\n\nO assunto continua. A informação avança.\n\nA agência organiza a sequência, mas as informações e orientações precisam ser validadas pelo médico. Sem promessas de conduta ou resultado para todo paciente.\n\nSalve para usar na próxima pauta de conteúdo.\n\n@doctorpro.marketing"
     },
     {
@@ -420,7 +445,14 @@
       "data": "2026-11-03",
       "pasta": "2026-11-10-endereco-atualizado",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Mudar o endereço do consultório exige mais do que publicar um aviso.\n\nO perfil no Google, o site, a bio do Instagram, os anúncios ativos e as orientações enviadas pela recepção precisam ser conferidos separadamente.\n\nInclua páginas antigas que ainda podem aparecer em buscas ou ser abertas por um link salvo.\n\nMantenha uma lista dos canais e de quem cuida de cada atualização. Ela também serve quando houver mudança de telefone ou horário.\n\nSalve para a próxima mudança do consultório.\n\n@doctorpro.marketing"
     },
     {
@@ -429,7 +461,14 @@
       "data": "2026-10-27",
       "pasta": "2026-11-17-contexto-recepcao",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Uma campanha nova precisa chegar à recepção antes de chegar às pessoas.\n\nEnvie um resumo com o anúncio, o link, o atendimento apresentado e as condições reais para marcar. Combine quem responde e como encaminhar dúvidas que não são de agendamento.\n\nDepois, ouça a equipe: quais perguntas continuam aparecendo? Onde a mensagem ficou incompleta?\n\nEsse retorno ajuda a agência e o consultório a revisar o caminho. Não é uma promessa de mais consultas; é uma forma de evitar que a campanha e o atendimento trabalhem com informações diferentes.\n\nCompartilhe com quem organiza a recepção do consultório.\n\n@doctorpro.marketing"
     },
     {
@@ -438,7 +477,15 @@
       "data": "2026-11-24",
       "pasta": "2026-11-24-tempo-resposta",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png",
+        "slide-07.png"
+      ],
       "legenda": "Muita gente repete que responder em cinco minutos aumenta a conversão em oito vezes. O dado existe — mas nasceu de uma análise comercial, não de consultórios médicos.\n\nIsso não torna a velocidade irrelevante. Torna a promessa mais honesta: a resposta rápida só ajuda quando a conversa identifica o pedido, apresenta um próximo passo viável e respeita os limites do atendimento clínico.\n\nAntes de adotar a meta de outra empresa, meça o seu processo por sete dias. Compare o tempo da primeira resposta humana com agendamento e comparecimento. Separe também o horário comercial das mensagens recebidas fora dele.\n\nA pergunta mais útil não é \"respondemos em cinco minutos?\". É: em que ponto as conversas do consultório deixam de avançar?\n\nSalve este carrossel e leve o teste para a recepção.\n\n#MarketingMédico #GestãoDeConsultório #ExperiênciaDoPaciente #DoctorPro"
     },
     {
@@ -447,7 +494,15 @@
       "data": "2026-12-01",
       "pasta": "2026-12-01-nao-vendemos-agenda-cheia",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png", "slide-07.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png",
+        "slide-07.png"
+      ],
       "legenda": "A Doctor Pro não vende agenda cheia.\n\nUma agência pode melhorar mensagem, presença, campanha, página e acompanhamento. O consultório participa com disponibilidade, resposta e experiência. O paciente ainda compara, pergunta e decide.\n\nPrometer o resultado final como se uma única parte controlasse tudo parece mais convincente. Também esconde onde o trabalho realmente precisa acontecer.\n\nPreferimos mostrar o processo: o que foi feito, quem encontrou, quem chamou, quem marcou e onde a conversa parou.\n\nEnvie para um médico que está escolhendo uma agência.\n\n@doctorpro.marketing"
     },
     {
@@ -456,7 +511,14 @@
       "data": "2026-12-08",
       "pasta": "2026-12-08-ligacoes-perdidas",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Uma ligação perdida não aparece no relatório do WhatsApp. Se ninguém registra e retorna, ela também desaparece da análise do marketing.\n\nDurante uma semana, anote horário, responsável pelo retorno, motivo informado e resultado da conversa. No fim do dia, compare ligações recebidas, retornos realizados e consultas marcadas.\n\nNão é para pressionar a recepção. É para enxergar uma parte da procura que costuma ficar fora da conta.\n\nSalve e leve o teste para a equipe.\n\n@doctorpro.marketing"
     },
     {
@@ -465,7 +527,14 @@
       "data": "2026-12-15",
       "pasta": "2026-12-15-procura-ou-pergunta",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Nem toda mensagem tem a mesma intenção. Algumas pessoas querem uma informação. Outras conferem disponibilidade. Outras já estão prontas para escolher um horário.\n\nMisturar tudo em um único número faz a campanha parecer melhor ou pior sem explicar o motivo.\n\nSepare as conversas por assunto e acompanhe quais chegaram ao agendamento e ao comparecimento. As perguntas repetidas também mostram o que o site, o anúncio ou o conteúdo ainda não explicou bem.\n\nSalve para pedir esse recorte na próxima reunião.\n\n@doctorpro.marketing"
     },
     {
@@ -474,7 +543,14 @@
       "data": "2026-12-22",
       "pasta": "2026-12-22-limite-whatsapp",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Responder rápido não significa manter o médico disponível no WhatsApp o tempo todo.\n\nA recepção pode confirmar o recebimento, identificar o pedido e orientar o próximo passo. Questões clínicas precisam seguir o fluxo definido pelo próprio médico, com prazo e limites claros.\n\nO objetivo é evitar dois extremos: deixar a pessoa sem resposta ou improvisar uma orientação que a equipe não deveria dar.\n\nCompartilhe com quem atende as mensagens do consultório.\n\n@doctorpro.marketing"
     },
     {
@@ -483,7 +559,14 @@
       "data": "2026-12-29",
       "pasta": "2026-12-29-friccao-agendamento",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Ter horário livre não significa que esteja fácil marcá-lo.\n\nO site aponta para um número, a bio usa outro link e a recepção pede que a pessoa volte ao canal anterior. A agenda continua disponível, mas o caminho até ela ficou longo demais.\n\nFaça o percurso com outro celular, como se você ainda não conhecesse o consultório. Confira dados, links, horários e o próximo passo.\n\nSalve para repetir esse teste sempre que algum canal mudar.\n\n@doctorpro.marketing"
     },
     {
@@ -492,7 +575,14 @@
       "data": "2027-01-05",
       "pasta": "2027-01-05-fora-do-horario",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "Uma resposta automática pode confirmar que a mensagem chegou. Ela não garante que a conversa será retomada no dia seguinte.\n\nDefina quem abre a fila fora do horário, em que ordem as mensagens serão respondidas e o que precisa ser registrado depois. Separe noite, madrugada, fins de semana e horário comercial.\n\nAssim, o consultório descobre se o atraso está no atendimento inteiro ou concentrado em um turno específico.\n\nSalve e acompanhe por uma semana.\n\n@doctorpro.marketing"
     },
     {
@@ -501,7 +591,14 @@
       "data": "2027-01-12",
       "pasta": "2027-01-12-ia-consulta-cfm",
       "status": "aprovado",
-      "slides": ["slide-01.png", "slide-02.png", "slide-03.png", "slide-04.png", "slide-05.png", "slide-06.png"],
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png"
+      ],
       "legenda": "A IA já entrou na rotina de muitos médicos. A discussão não é mais apenas usar ou não usar. É saber se a ferramenta entra como apoio, se o paciente entende o que acontece com seus dados e se o médico continua revisando cada saída.\n\nA Resolução CFM 2.454/2026 está em vigor. Ela permite o uso de IA na prática médica, mas mantém a decisão final com o médico, exige comunicação clara ao paciente, respeito à recusa informada, segurança dos dados e registro no prontuário quando a IA apoiar a decisão médica.\n\nAntes de contratar uma ferramenta, peça respostas objetivas sobre finalidade, dados coletados, armazenamento, possibilidade de recusa e revisão humana.\n\nSalve para revisar com a equipe.\n\nEste conteúdo é informativo e não substitui orientação jurídica ou do CRM.\n\n@doctorpro.marketing"
     }
   ]
