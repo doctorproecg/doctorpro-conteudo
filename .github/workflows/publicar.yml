@@ -25,6 +25,10 @@ on:
         description: 'Simular sem publicar'
         type: boolean
         default: false
+      somente_facebook:
+        description: 'Publicar ou substituir apenas no Facebook, preservando o Instagram'
+        type: boolean
+        default: false
 
 jobs:
   publicar:
@@ -50,7 +54,8 @@ jobs:
         run: |
           node publicar.js \
             ${{ inputs.data && format('--data {0}', inputs.data) || '' }} \
-            ${{ inputs.seco && '--seco' || '' }}
+            ${{ inputs.seco && '--seco' || '' }} \
+            ${{ inputs.somente_facebook && '--somente-facebook' || '' }}
 
       - name: Registrar publicação na fila
         if: ${{ !inputs.seco }}

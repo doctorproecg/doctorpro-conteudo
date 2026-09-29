@@ -25,6 +25,7 @@ const GRAPH = process.env.GRAPH_VERSION || 'v23.0';
 const BASE = `https://graph.facebook.com/${GRAPH}`;
 
 const seco = process.argv.includes('--seco');
+const somenteFacebook = process.argv.includes('--somente-facebook');
 const dataArg = argOf('--data');
 
 function argOf(nome) {
@@ -55,7 +56,7 @@ async function graph(caminho, params, metodo = 'POST', tok = token) {
 
   const r = metodo === 'GET'
     ? await fetch(`${url}?${corpo}`)
-    : await fetch(url, { method: 'POST', body: corpo });
+    : await fetch(url, { method: metodo, body: corpo });
 
   const json = await r.json();
 
@@ -148,13 +149,13 @@ if (!post) {
   process.exit(0);
 }
 
-if (post.status === 'publicado') {
+if (post.status === 'publicado' && !somenteFacebook) {
   console.log(`"${post.titulo}" já foi publicado (${post.instagram_media_id}). Nada a fazer.`);
   process.exit(0);
 }
 
 // A trava. Sem aprovação explícita, nada vai pro feed.
-if (post.status !== 'aprovado') {
+if (!somenteFacebook && post.status !== 'aprovado') {
   console.log(
     `"${post.titulo}" está como "${post.status}", não "aprovado".\n` +
     `Pulando ${alvo} — nenhuma peça é publicada sem revisão.`
@@ -183,50 +184,64 @@ if (seco) {
   process.exit(0);
 }
 
-let mediaId;
+if (!somenteFacebook) {
+  let mediaId;
 
-if (post.slides.length === 1) {
-  const { id } = await graph(`${igUser}/media`, {
-    image_url: urlDe(post.slides[0]),
-    caption: post.legenda,
-  });
-  await esperarContainer(id);
-  ({ id: mediaId } = await graph(`${igUser}/media_publish`, { creation_id: id }));
-} else {
-  // Todos os slides são cortados na proporção do primeiro. Os nossos são 1080x1350
-  // uniformes, então não há corte — mas se um dia divergirem, o primeiro manda.
-  const filhos = [];
-  for (const slide of post.slides) {
+  if (post.slides.length === 1) {
     const { id } = await graph(`${igUser}/media`, {
-      image_url: urlDe(slide),
-      is_carousel_item: 'true',
+      image_url: urlDe(post.slides[0]),
+      caption: post.legenda,
     });
-    filhos.push(id);
-    console.log(`  container ${slide} → ${id}`);
+    await esperarContainer(id);
+    ({ id: mediaId } = await graph(`${igUser}/media_publish`, { creation_id: id }));
+  } else {
+    // Todos os slides são cortados na proporção do primeiro. Os nossos são 1080x1350
+    // uniformes, então não há corte — mas se um dia divergirem, o primeiro manda.
+    const filhos = [];
+    for (const slide of post.slides) {
+      const { id } = await graph(`${igUser}/media`, {
+        image_url: urlDe(slide),
+        is_carousel_item: 'true',
+      });
+      filhos.push(id);
+      console.log(`  container ${slide} → ${id}`);
+    }
+
+    const { id: carrossel } = await graph(`${igUser}/media`, {
+      media_type: 'CAROUSEL',
+      children: filhos.join(','),
+      caption: post.legenda,
+    });
+
+    await esperarContainer(carrossel);
+    ({ id: mediaId } = await graph(`${igUser}/media_publish`, { creation_id: carrossel }));
   }
 
-  const { id: carrossel } = await graph(`${igUser}/media`, {
-    media_type: 'CAROUSEL',
-    children: filhos.join(','),
-    caption: post.legenda,
-  });
+  post.status = 'publicado';
+  post.instagram_media_id = mediaId;
+  post.publicado_em = new Date().toISOString();
 
-  await esperarContainer(carrossel);
-  ({ id: mediaId } = await graph(`${igUser}/media_publish`, { creation_id: carrossel }));
+  console.log(`\nInstagram publicado. media_id ${mediaId}`);
+} else {
+  console.log('\nModo somente Facebook: preservando a publicação atual do Instagram.');
 }
-
-post.status = 'publicado';
-post.instagram_media_id = mediaId;
-post.publicado_em = new Date().toISOString();
-
-console.log(`\nInstagram publicado. media_id ${mediaId}`);
 
 // Facebook vem depois e é isolado: o Instagram já está no ar e marcado como
 // publicado. Se a Página falhar (token sem pages_manage_posts, por exemplo),
 // registramos o motivo e seguimos — não dá pra "despublicar" o Instagram, e o
 // post não pode voltar pra fila e sair duplicado amanhã.
-if (fbPageId && !post.facebook_post_id) {
+if (fbPageId && (!post.facebook_post_id || somenteFacebook)) {
   try {
+    if (somenteFacebook && post.facebook_post_id) {
+      const antigo = post.facebook_post_id;
+      const { access_token: pageToken } = await graph(fbPageId, { fields: 'access_token' }, 'GET');
+      await graph(antigo, {}, 'DELETE', pageToken);
+      post.facebook_post_id_removido = antigo;
+      post.facebook_removido_em = new Date().toISOString();
+      delete post.facebook_post_id;
+      delete post.facebook_em;
+      console.log(`Facebook antigo removido. post_id ${antigo}`);
+    }
     const fbId = await publicarNoFacebook(post);
     post.facebook_post_id = fbId;
     post.facebook_em = new Date().toISOString();
