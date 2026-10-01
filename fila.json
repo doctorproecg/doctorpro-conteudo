@@ -359,7 +359,7 @@
       "id": "marketing-agenda",
       "titulo": "Marketing não começa com agenda vazia",
       "data": "2026-11-10",
-      "pasta": "2026-09-24-marketing-agenda",
+      "pasta": "2026-09-24-marketing-agenda-v2",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
@@ -415,7 +415,7 @@
       "id": "foco-campanha",
       "titulo": "Seu anúncio tenta explicar tudo?",
       "data": "2026-11-17",
-      "pasta": "2026-10-27-foco-campanha",
+      "pasta": "2026-10-27-foco-campanha-v2",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
@@ -447,7 +447,7 @@
       "id": "endereco-atualizado",
       "titulo": "Mudou de endereço? E os seus links?",
       "data": "2026-11-03",
-      "pasta": "2026-11-10-endereco-atualizado",
+      "pasta": "2026-11-10-endereco-atualizado-v2",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
@@ -463,7 +463,7 @@
       "id": "contexto-recepcao",
       "titulo": "A campanha começou. A recepção sabe?",
       "data": "2026-10-27",
-      "pasta": "2026-11-17-contexto-recepcao",
+      "pasta": "2026-11-17-contexto-recepcao-v2",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
@@ -593,7 +593,7 @@
       "id": "ia-consulta-cfm",
       "titulo": "A IA entrou na consulta. O paciente sabe?",
       "data": "2027-01-12",
-      "pasta": "2027-01-12-ia-consulta-cfm",
+      "pasta": "2027-01-12-ia-consulta-cfm-v2",
       "status": "aprovado",
       "slides": [
         "slide-01.png",
