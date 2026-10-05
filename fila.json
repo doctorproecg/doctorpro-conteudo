@@ -632,6 +632,17 @@
         "slide-07.png"
       ],
       "legenda": "Uma avaliação negativa pede resposta. Mas não qualquer resposta.\n\nMesmo quando a pessoa relata o atendimento publicamente, o médico continua sujeito ao dever de sigilo. Além disso, dados de saúde recebem proteção especial pela LGPD.\n\nNa prática, a resposta pública deve evitar confirmar o vínculo, discutir detalhes clínicos ou usar o prontuário para rebater a crítica. O caminho mais prudente é acolher o relato, indicar que casos individuais são tratados com privacidade e oferecer um canal direto.\n\nO modelo deste carrossel é uma referência de tom, não uma resposta automática para todos os casos. Situações sensíveis devem passar por avaliação ética e jurídica adequada.\n\nResponder bem não é vencer uma discussão. É preservar o paciente, o médico e a confiança no consultório.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "orientacao-nao-depende-memoria",
+      "titulo": "A consulta acabou. A orientação não deveria depender só da memória.",
+      "data": "2027-02-02",
+      "pasta": "2027-02-02-orientacao-nao-depende-memoria",
+      "status": "aprovado",
+      "slides": [
+        "slide-01.png"
+      ],
+      "legenda": "Uma boa explicação durante a consulta é essencial. Ainda assim, lembrar de tudo depois pode ser difícil.\n\nUma revisão sobre memória de informações médicas relatou perda imediata de parte relevante do que é explicado e possibilidade de recordação incorreta. Outra revisão sistemática encontrou que materiais escritos e gravações estavam entre as intervenções mais estudadas para apoiar a recordação, embora os resultados variassem conforme o contexto.\n\nIsso não significa publicar orientação individual em rede social. Significa pensar no que o paciente recebe depois: resumo claro, instruções autorizadas, canal para dúvidas e conteúdo educativo que complemente, sem substituir, a consulta.\n\nComunicação médica não termina quando a porta do consultório fecha.\n\n@doctorpro.marketing"
     }
   ]
 }
