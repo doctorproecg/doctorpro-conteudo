@@ -604,6 +604,34 @@
         "slide-06.png"
       ],
       "legenda": "A IA já entrou na rotina de muitos médicos. A discussão não é mais apenas usar ou não usar. É saber se a ferramenta entra como apoio, se o paciente entende o que acontece com seus dados e se o médico continua revisando cada saída.\n\nA Resolução CFM 2.454/2026 está em vigor. Ela permite o uso de IA na prática médica, mas mantém a decisão final com o médico, exige comunicação clara ao paciente, respeito à recusa informada, segurança dos dados e registro no prontuário quando a IA apoiar a decisão médica.\n\nAntes de contratar uma ferramenta, peça respostas objetivas sobre finalidade, dados coletados, armazenamento, possibilidade de recusa e revisão humana.\n\nSalve para revisar com a equipe.\n\nEste conteúdo é informativo e não substitui orientação jurídica ou do CRM.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "indicacao-confirma-escolha",
+      "titulo": "A indicação entrega o seu nome. O digital ajuda a confirmar a escolha.",
+      "data": "2027-01-19",
+      "pasta": "2027-01-19-indicacao-confirma-escolha",
+      "status": "aprovado",
+      "slides": [
+        "slide-01.png"
+      ],
+      "legenda": "Uma indicação coloca o médico no radar. Ela não encerra a decisão.\n\nEm um estudo observacional com cirurgiões cardíacos, as avaliações online tiveram efeito significativo na escolha, inclusive em análises que consideraram o efeito da indicação. O resultado é daquele contexto e não deve ser tratado como uma regra para toda especialidade. Mas ele mostra algo importante: indicação e presença digital não são caminhos concorrentes.\n\nQuando a pessoa recebe um nome e vai pesquisar, ela procura coerência: especialidade clara, informações atuais, avaliações, localização e uma forma simples de entrar em contato.\n\nA indicação abre a porta. O que a pessoa encontra depois pode confirmar ou aumentar a dúvida.\n\nNa Doctor Pro, presença digital não é enfeite. É parte do caminho até a consulta.\n\n@doctorpro.marketing"
+    },
+    {
+      "id": "resposta-avaliacao-sigilo",
+      "titulo": "Recebeu uma avaliação negativa? Responder não autoriza expor o paciente.",
+      "data": "2027-01-26",
+      "pasta": "2027-01-26-resposta-avaliacao-sigilo",
+      "status": "aprovado",
+      "slides": [
+        "slide-01.png",
+        "slide-02.png",
+        "slide-03.png",
+        "slide-04.png",
+        "slide-05.png",
+        "slide-06.png",
+        "slide-07.png"
+      ],
+      "legenda": "Uma avaliação negativa pede resposta. Mas não qualquer resposta.\n\nMesmo quando a pessoa relata o atendimento publicamente, o médico continua sujeito ao dever de sigilo. Além disso, dados de saúde recebem proteção especial pela LGPD.\n\nNa prática, a resposta pública deve evitar confirmar o vínculo, discutir detalhes clínicos ou usar o prontuário para rebater a crítica. O caminho mais prudente é acolher o relato, indicar que casos individuais são tratados com privacidade e oferecer um canal direto.\n\nO modelo deste carrossel é uma referência de tom, não uma resposta automática para todos os casos. Situações sensíveis devem passar por avaliação ética e jurídica adequada.\n\nResponder bem não é vencer uma discussão. É preservar o paciente, o médico e a confiança no consultório.\n\n@doctorpro.marketing"
     }
   ]
 }
