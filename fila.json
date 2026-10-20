@@ -404,7 +404,7 @@
       "titulo": "Perto no mapa. Longe na rotina.",
       "data": "2026-10-20",
       "pasta": "2026-10-20-regiao-anuncio",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -413,7 +413,11 @@
         "slide-05.png",
         "slide-06.png"
       ],
-      "legenda": "O raio do anúncio é um ponto de partida. A revisão precisa olhar também o caminho até o consultório e as regiões de onde chegam as consultas particulares.\n\nPeça um relatório por região e confira qual opção de localização foi usada. Nem toda configuração considera apenas quem está fisicamente no local.\n\nEvite ampliar ou cortar bairros só por uma impressão. Compare os contatos com os agendamentos, usando informações agrupadas.\n\nSalve para a próxima reunião com sua agência.\n\n@doctorpro.marketing"
+      "legenda": "O raio do anúncio é um ponto de partida. A revisão precisa olhar também o caminho até o consultório e as regiões de onde chegam as consultas particulares.\n\nPeça um relatório por região e confira qual opção de localização foi usada. Nem toda configuração considera apenas quem está fisicamente no local.\n\nEvite ampliar ou cortar bairros só por uma impressão. Compare os contatos com os agendamentos, usando informações agrupadas.\n\nSalve para a próxima reunião com sua agência.\n\n@doctorpro.marketing",
+      "instagram_media_id": "18105690925983946",
+      "publicado_em": "2026-10-20T10:51:53.837Z",
+      "facebook_post_id": "1127575313776177_122150053755352929",
+      "facebook_em": "2026-10-20T10:52:08.892Z"
     },
     {
       "id": "foco-campanha",
