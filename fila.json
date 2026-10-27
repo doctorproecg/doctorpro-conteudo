@@ -476,7 +476,7 @@
       "titulo": "A campanha começou. A recepção sabe?",
       "data": "2026-10-27",
       "pasta": "2026-11-17-contexto-recepcao-v2",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -485,7 +485,11 @@
         "slide-05.png",
         "slide-06.png"
       ],
-      "legenda": "Uma campanha nova precisa chegar à recepção antes de chegar às pessoas.\n\nEnvie um resumo com o anúncio, o link, o atendimento apresentado e as condições reais para marcar. Combine quem responde e como encaminhar dúvidas que não são de agendamento.\n\nDepois, ouça a equipe: quais perguntas continuam aparecendo? Onde a mensagem ficou incompleta?\n\nEsse retorno ajuda a agência e o consultório a revisar o caminho. Não é uma promessa de mais consultas; é uma forma de evitar que a campanha e o atendimento trabalhem com informações diferentes.\n\nCompartilhe com quem organiza a recepção do consultório.\n\n@doctorpro.marketing"
+      "legenda": "Uma campanha nova precisa chegar à recepção antes de chegar às pessoas.\n\nEnvie um resumo com o anúncio, o link, o atendimento apresentado e as condições reais para marcar. Combine quem responde e como encaminhar dúvidas que não são de agendamento.\n\nDepois, ouça a equipe: quais perguntas continuam aparecendo? Onde a mensagem ficou incompleta?\n\nEsse retorno ajuda a agência e o consultório a revisar o caminho. Não é uma promessa de mais consultas; é uma forma de evitar que a campanha e o atendimento trabalhem com informações diferentes.\n\nCompartilhe com quem organiza a recepção do consultório.\n\n@doctorpro.marketing",
+      "instagram_media_id": "18034785629907403",
+      "publicado_em": "2026-10-27T10:52:08.935Z",
+      "facebook_post_id": "1127575313776177_122151870267352929",
+      "facebook_em": "2026-10-27T10:52:22.223Z"
     },
     {
       "id": "tempo-resposta",
