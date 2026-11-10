@@ -364,7 +364,7 @@
       "titulo": "Marketing não começa com agenda vazia",
       "data": "2026-11-10",
       "pasta": "2026-09-24-marketing-agenda-v2",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -373,7 +373,11 @@
         "slide-05.png",
         "slide-06.png"
       ],
-      "legenda": "Agenda vazia costuma fazer o marketing virar emergência. A clínica liga uma campanha, publica mais, cobra resposta rápida e espera que a próxima semana resolva o mês.\n\nO problema é que, quando tudo começa no aperto, ninguém sabe qual canal trazer de volta, para qual público e com qual conversa. A agenda cheia de hoje também não explica de onde virá a procura de amanhã.\n\nSalve para levar essa pergunta à próxima reunião de planejamento.\n\n@doctorpro.marketing"
+      "legenda": "Agenda vazia costuma fazer o marketing virar emergência. A clínica liga uma campanha, publica mais, cobra resposta rápida e espera que a próxima semana resolva o mês.\n\nO problema é que, quando tudo começa no aperto, ninguém sabe qual canal trazer de volta, para qual público e com qual conversa. A agenda cheia de hoje também não explica de onde virá a procura de amanhã.\n\nSalve para levar essa pergunta à próxima reunião de planejamento.\n\n@doctorpro.marketing",
+      "instagram_media_id": "18598344682070296",
+      "publicado_em": "2026-11-10T10:51:46.495Z",
+      "facebook_post_id": "1127575313776177_122155257351352929",
+      "facebook_em": "2026-11-10T10:52:17.069Z"
     },
     {
       "id": "site-respostas",
