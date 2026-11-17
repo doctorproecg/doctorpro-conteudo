@@ -428,7 +428,7 @@
       "titulo": "Seu anúncio tenta explicar tudo?",
       "data": "2026-11-17",
       "pasta": "2026-10-27-foco-campanha-v2",
-      "status": "aprovado",
+      "status": "publicado",
       "slides": [
         "slide-01.png",
         "slide-02.png",
@@ -437,7 +437,11 @@
         "slide-05.png",
         "slide-06.png"
       ],
-      "legenda": "Não é preciso colocar o consultório inteiro em um anúncio.\n\nUma campanha pode apresentar um atendimento e conduzir a pessoa a uma página que explique esse atendimento, com um caminho claro para marcar.\n\nIsso não significa prometer resultado clínico, diagnosticar pelo anúncio ou tratar todas as pessoas como iguais. Significa não trocar de assunto entre o anúncio e o próximo passo.\n\nAntes de discutir mais verba, revise esse percurso com a agência e a recepção.\n\nSalve para conferir sua próxima campanha.\n\n@doctorpro.marketing"
+      "legenda": "Não é preciso colocar o consultório inteiro em um anúncio.\n\nUma campanha pode apresentar um atendimento e conduzir a pessoa a uma página que explique esse atendimento, com um caminho claro para marcar.\n\nIsso não significa prometer resultado clínico, diagnosticar pelo anúncio ou tratar todas as pessoas como iguais. Significa não trocar de assunto entre o anúncio e o próximo passo.\n\nAntes de discutir mais verba, revise esse percurso com a agência e a recepção.\n\nSalve para conferir sua próxima campanha.\n\n@doctorpro.marketing",
+      "instagram_media_id": "18129682399862307",
+      "publicado_em": "2026-11-17T10:51:53.094Z",
+      "facebook_post_id": "1127575313776177_122157040431352929",
+      "facebook_em": "2026-11-17T10:52:08.500Z"
     },
     {
       "id": "conteudo-conectado",
